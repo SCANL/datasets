@@ -1,2 +1,2 @@
 # datasets
-All datasets curated by SCANL lab
+Datasets curated by SCANL lab
