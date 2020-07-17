@@ -23,7 +23,7 @@ If you're interested in modifying the scripts for your own use, you'll need to r
 
 1. C. D. Newman, M. J. Decker, R. S. Alsuhaibani, A. Peruma, D. Kaushik and E. Hill, "An Empirical Study of Abbreviations and Expansions in Software Artifacts," 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), Cleveland, OH, USA, 2019, pp. 269-279, doi: 10.1109/ICSME.2019.00040.
 
-2. C. Newman, M. J. Decker, R. S. AlSuhaibani, A. Peruma, D. Kaushik and E. Hill, "An Open Dataset of Abbreviations and Expansions," 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), Cleveland, OH, USA, 2019, pp. 280-280, doi: 10.1109/ICSME.2019.00041.
+2. C. D. Newman, M. J. Decker, R. S. AlSuhaibani, A. Peruma, D. Kaushik and E. Hill, "An Open Dataset of Abbreviations and Expansions," 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), Cleveland, OH, USA, 2019, pp. 280-280, doi: 10.1109/ICSME.2019.00041.
 
 # Feel free to contribute!
 We would love to keep this repository growing with more abbreviations and expansions and are happy to credit anyone who decides to add to our current set here in the README (we will credit your name/username/webapge or whatever you like). If you'd like to contribute more abbreviations and expansions, just make a pull request either adding your own file from a system we do not include above or modifying the .csv files already included. Just be sure to follow the format. 
