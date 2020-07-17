@@ -1,0 +1,358 @@
+Original identifier,"(Abbreviation:Expansion,...)",Split Identifier
+track2SampleSizes,(2:to),track (2) Sample Sizes
+abs,(abs:absolute value),(abs)
+onQuickAck,(ack:acknowledge),on Quick (Ack)
+quickAckBlock,(ack:acknowledge),quick (Ack) Block
+QuickAckDelegate,(ack:acknowledge),Quick (Ack) Delegate
+RequestFlagNeedQuickAck,(ack:acknowledge),Request Flag Need Quick (Ack)
+addr,(addr:address),(addr)
+aesIv,(aes:Advanced Encryption Standard-iv:initialization vector),(aes) (IV)
+aesKey,(aes:Advanced Encryption Standard),(aes) key
+oldViewAnim,(anim:animator),old view (anim)
+APP_ID,(app:application-id:identifier),(APP) (ID)
+app,(app:application),(app)
+appPaused,(app:application),(app) paused
+appResumeCount,(app:application),(app) resume count
+appVersion,(app:application),(app) version
+checkAppAccount,(app:application),check (app) account
+lastAppPauseTime,(app:application),last (app) Pause Time
+args,(args:arguments),(args)
+arr,(arr:array),(arr)
+AsyncTask,(async:asynchronous),(Async) Task
+atx,(at:animate to-x:mathvariable),(at)(x)
+aty,(at:animate to-y:mathvariable),(at)(y)
+authKey,(auth:authorization),(auth) Key
+TYPE_TEXT_FLAG_AUTO_CORRECT,(auto:automatically),type text flag (auto) correct
+av,(av:animation value),(a v)
+b,(b:bytes),(b)
+bb,(bb:byte buffer),(bb)
+readBool,(bool:boolean),read (Bool)
+readBool,(bool:boolean),read (Bool)
+writeBool,(bool:boolean),write (Bool)
+byteBuf,(buf:buffer),byte (Buf)
+buff,(buff:buffer),(buff)
+cx,(c:center-x:mathvariable),(c) (x)
+cy,(c:center-y:mathvariable),(c) (y)
+C,(c:constants),(C)
+justCalc,(calc:calculate),just (calc)
+TYPE_TEXT_FLAG_CAP_SENTENCES,(cap:capitalize),type text flag (cap) sentences
+fourCCtoBytes,(cc:character code),four (CC) to bytes
+CharSequence,(char:character),(Char) Sequence
+ViewCompat,(compat:compatibility),view (compat)
+ViewPropertyAnimatorCompat,(compat:compatibility),view property animator (compat)
+configPath,(config:configuration),(config) path
+loadConfig,(config:configuration),load (config)
+newConfig,(config:configuration),new (config)
+saveConfig,(config:configuration),save (config)
+UserConfig,(config:configuration),user (config)
+coords2,(coords:coordinates-2:distinguisher),(coords) (2)
+coords,(coords:coordinates),(coords)
+invalidcoords,(coords:coordinates),invalid (coords)
+setImageCoords,(coords:coordinates),set image (coords)
+cos,(cos:cosine),(cos)
+getCurrX,(curr:current-x:mathvariable),get (Curr) (X)
+getCurrY,(curr:current-y:mathvariable),get (Curr) (Y)
+dinf,(d:data-info:information),(d)(info)
+dref,(d:data-ref:reference),(d)(ref)
+d,(d:debug),(d)
+dx,(d:delta-x:mathvariable),(d)(x)
+moveDx,(d:delta-x:mathvariable),move (d)(x)
+moveDy,(d:delta-x:mathvariable),move (d)(y)
+dy,(d:delta-y:mathvariable),(d)(y)
+d,(d:double),(d)
+did,(d:draft-id:identifier),(d)(id)
+mediaDidLoaded,(d:draft-id:identifier),media (D)(id) Loaded
+dc,(dc:data center),(d c)
+RequestFlagTryDifferentDc,(dc:datacenter),Request Flag Try Different (Dc)
+usersDict,(dict:dictionary),users (dict)
+scaleDiff,(diff:difference),scale (diff)
+COMPLEX_UNIT_DIP,(dip:device independent pixel),COMPLEX UNIT (D I P)
+dataDir,(dir:directory),data (dir)
+getFilesDirFixed,(dir:directory),get Files (Dir) Fixed
+dnsConfigVersion,(dns:domain name server-config:configuration),(d n s) (config) version
+lastDnsRequestTime,(dns:domain name server),last (d n s) request time
+dp,(dp:device independent pixel),(d p)
+dt,(dt:delta time),(d t)
+e,(e:error),(e)
+e,(e:event),(e)
+e,(e:exception),(e)
+ev,(ev:event),(ev)
+f,(f:file),(f)
+fc,(fc:file channel),(f c)
+fos,(fos:file output stream),(f o s)
+gcd,(gcd:greatest common denominator),(g c d)
+GcmListenerService,(gcm:Google cloud messaging),(G c m) Listener Service
+GcmPushListenerService,(gcm:Google cloud messaging),(G c m) push listener service
+GcmRegistrationIntentService,(gcm:google cloud messaging),(G C M) Registration Intent Service
+isGifDocument,(gif:graphics interchange format),is (G i f) Document
+bindRequestToGuid,(guid:globally unique identifier),bind Request To (G u id)
+cancelRequestsForGuid,(guid:globally unique identifier),cancel Requests For (G u id)
+classGuid,(guid:globally unique identifier),class (g u id)
+guid,(guid:globally unique identifier),(g u id)
+lastClassGuid,(guid:globally unique identifier),last Class (G u id)
+native_bindRequestToGuid,(guid:globally unique identifier),native bind request to (guid)
+native_cancelRequestsForGuid,(guid:globally unique identifier),native cancel requests for (guid)
+h,(h:height),(h)
+hdlr,(hdlr:handler),(hdlr)
+bytesToHex,(hex:hexadecimal),bytes To (Hex)
+hexToBytes,(hex:hexadecimal),(hex) to bytes
+i,(i:integer),(i)
+IBinder,(i:interface),(I) Binder
+ic_ab_back,(ic:icon-ab:action bar),(ic) (ab) back
+ic_done,(ic:icon),(ic) done
+channel_id,(id:identifier),channel (id)
+channelIdFInal,(id:identifier),channel (Id) Final
+chat_id,(id:identifier),chat (id)
+currentChannelId,(id:identifier),current Channel (Id)
+datacenterId,(id:identifier),data center (id)
+DEFAULT_DATACENTER_ID,(id:identifier),DEFAULT DATACENTER (ID)
+dialog_id,(id:identifier),dialog (id)
+dialog_id,(id:identifier),dialog (id)
+from_id,(id:identifier),from (id)
+getClientUserId,(id:identifier),get Client User (Id)
+getDialogId,(id:identifier),get dialog (id)
+getId,(id:identifier),get (id)
+getTrackId,(id:identifier),get Track (Id)
+holeMessageId,(id:identifier),hole message (id)
+id,(id:identifier),(id)
+lastMergeDialogId,(id:identifier),last merge dialog (id)
+lower_id,(id:identifier),lower (id)
+mergeDialogId,(id:identifier),merge Dialog (Id)
+messageId,(id:identifier),message (id)
+messageIdFinal,(id:identifier),message (Id) Final
+minId,(id:identifier),min (Id)
+NOTIFICATION_ID,(id:identifier),notification (ID)
+offset_id,(id:identifier),offset (id)
+setNextTrackId,(id:identifier),set Next Track (Id)
+setTrackId,(id:identifier),set Track (Id)
+to_id,(id:identifier),to (id)
+IME_ACTION_DONE,(ime:input method editor),(I M E) ACTION DONE
+setImeOptions,(ime:input method editor),set (i m e) options
+animateAddImpl,(impl:implementation),animate add (impl)
+animateRemoveImpl,(impl:implementation),animate remove (impl)
+inbuf,(in:input-buf:buffer),(in) (buf)
+in,(in:input),(in)
+ApplicationInfo,(info:information),application (info)
+ChangeInfo,(info:information),change (info)
+convertInfoRow,(info:information),convert (info) row
+getActiveNetworkInfo,(info:information),get active Network (info)
+getApplicationInfo,(info:information),get application (info)
+info,(info:information),(info)
+infoList,(info:information),(info) list
+MoveInfo,(info:information),move (info)
+NetworkInfo,(info:information),Network (Info)
+PackageInfo,(info:information),package (info)
+initNativeLibs,(init:initialize-libs:libraries),(init) native (libs)
+initPlayServices,(init:initialize),(init) play services
+postInitApplication,(init:initialize),post (init) application
+applicationInited,(inited:initialized),application (inited)
+getInt,(int:integer),get (Int)
+getIntFromByte,(int:integer),get (Int) From Byte
+int,(int:integer),(int)
+intValue,(int:integer),(int) Value
+putInt,(int:integer),put (Int)
+readInt32,(int:integer),read (Int) 32
+readInt32,(int:integer),read (Int) 32
+readInt64,(int:integer),read (int) 64 
+readInt64,(int:integer),read (int) 64
+writeInt32,(int:integer),write (Int) 32
+writeInt64,(int:integer),write (Int) 64
+IOException,(io:input output),(i o) exception
+ip,(ip:internet protocol),(i p)
+ipAddress,(ip:internet protocol),(i p) address
+is,(is:input stream),(is)
+getLocaleStringIso639,(iso:international standards organization),get locale string (i s o) 639
+getSystemLocaleStringIso639,(iso:international standards organization),get system locale string (i s o) 639
+IsoFile,(iso:international standards organization),(iso) File
+IsoTypeWriter,(iso:international standards organization),(iso) type writer
+JSONObject,(json:javascript object notation),(JSON) Object
+l,(l:length),(l)
+l,(l:limit),(l)
+langCode,(lang:language),(lang) code
+systemLangCode,(lang:language),system (lang) code
+len,(len:length),(len)
+flushCurrentMdat,(m:media-dat:data),flush current (m)(dat)
+InterleaveChunkMdat,(m:media-dat:data),Interleave Chunk (m)(dat)
+mdat,(m:media-dat:data),(m)(dat)
+writedSinceLastMdat,(m:media-dat:data),writed Since Last (M) (dat)
+writeNewMdat,(m:media-dat:data),write new (m) (dat)
+minf,(m:media-inf:information),(m) (inf)
+mAddAnimations,(m:member),(m) add animations
+mAdditionsList,(m:member),(m) additions list
+mChangeAnimations,(m:member),(m) change animations
+mChangesList,(m:member),(m) changes list
+mContext,(m:member),(m) context
+mMoveAnimations,(m:member),(m) move animations
+mMovesList,(m:member),(m) moves list
+mPendingAdditions,(m:member),(m) pending additions
+mPendingChanges,(m:member),(m) Pending changes
+mPendingMoves,(m:member),(m) Pending Moves
+mPendingRemovals,(m:member),(m) pending removals
+mReceiver,(m:member),(m) receiver
+mRemoveAnimations,(m:member),(m) remove animations
+mid,(m:message-id:identifier),(m) (id)
+mids,(m:message-ids:identifiers),(m) (ids)
+maxH,(max:maximum-h:height),(max) (h)
+max_id,(max:maximum-id:identifier),(max) (id)
+messageMaxId,(max:maximum-id:identifier),message (Max) (id)
+maxW,(max:maximum-w:width),(max) (w)
+maxX,(max:maximum-x:mathvariable),(max) (x)
+maxY,(max:maximum-y:mathvariable),(max) (y)
+max,(max:maximum),(max)
+MAX_VALUE,(max:maximum),(MAX) VALUE
+maxValue,(max:maximum),(max) value
+mdhd,(md:media-hd:header),(md) (hd)
+mdia,(mdia:media),(mdia)
+currentTimeMillis,(millis:milliseconds),current time (millis)
+checkMinMax,(min:minimum-max:maximum),check (min) (max)
+updateMinMax,(min:minimum-max:maximum),update (min) (max)
+minX,(min:minimum-x:mathvariable),(min) (x)
+minY,(min:minimum-y:mathvariable),(min) (y)
+min,(min:minimum),(min)
+mkdirs,(mk:make-dirs:directories),(mk) (dirs)
+moov,(moov:moviebox),(moov)
+currentMp4Movie,(mp4: Moving Picture Experts Group),current (mp4) movie
+msTime,(ms:milliseconds),(ms) time
+reply_to_msg_id,(msg:message-id:identifier),reply to (msg) (id)
+reply_to_msg_id,(msg:message-id:identifier),reply to (msg) (id)
+TYPE_TEXT_FLAG_MULTI_LINE,(multi:multiple),type text flag (multi) line
+mvhd,(mv:movie-hd:header),(mv) (hd)
+netInfo,(net:network-info:information),(net) (info)
+lastReturnedNum,(num:number),last returned (num)
+obj,(obj:object),(obj)
+Os,(os:operating system),(O s)
+outbuf,(out:output-buf:buffer),(out) (buf)
+isOut,(out:output),is (out)
+out,(out:output),(out)
+pInfo,(p:package-info:information),(p) (info)
+pintent,(p:pending),(p) intent
+LayoutParams,(params:parameters),layout (params)
+windowLayoutParams,(params:parameters),window Layout (Params)
+pm,(pm:power manager),(p m)
+prevTranslationX,(prev:previous-x:mathvariable),(prev) Translation (x)
+prevTranslationY,(prev:previous-y:mathvariable),(prev) Translation (y)
+prevAlpha,(prev:previous),(prev) Alpha
+q,(q:query),(q)
+R,(r:resource),(R)
+rad,(rad:radian),(rad)
+radProgress,(rad:radian),(rad) progress
+radProgress,(rad:radian),(rad) progress
+RectF,(rect:rectangle-f:float),(Rect)(F)
+RectF,(rect:rectangle-f:float),(Rect)(F)
+clipRect,(rect:rectangle),clip (Rect)
+deleteProgressRect,(rect:rectangle),delete progress (rect)
+Rect,(rect:rectangle),(Rect)
+Rect,(rect:rectangle),(Rect)
+currentReqId,(req:request-id:identifier),(req) (id)
+lastReqId,(req:request-id:identifier),last (req)(id)
+mergeReqId,(req:request-id:identifier),merge (req) (id)
+reqId,(req:request-id:identifier),(req) (id)
+req,(req:request),(req)
+req,(req:request),(req)
+messageRes,(res:response),message (Res)
+res,(res:response),(res)
+resp,(resp:response),(resp)
+resp,(resp:response),(resp)
+isRTL,(rtl:right to left),is (RTL)
+s,(s:string),(s)
+sc,(sc:scale canvas),(s c)
+SDK_INT,(sdk:Software Development Kit-int:integer),(S D K) (INT)
+sha256_a,(sha:Secure Hash Algorithm-a:distinguisher),(s h a) 256 (a)
+computeSHA256,(sha:secure hash algorithm),compute (S H A) 256
+sin,(sin:sine),(sin)
+heightMeasureSpec,(spec:specification),height measure (spec)
+MeasureSpec,(spec:specification),measure (spec)
+widthMeasureSpec,(spec:specification),width measure (spec)
+SQLiteCursor,(sq:structured query),(SQ) Lite Cusor
+SQLiteCursor,(sq:strutured query),(SQ) lite cursor
+SQLiteDatabase,(sq:strutured query),(SQ) lite database
+SQLitePreparedStatement,(sq:strutured query),(SQ) lite prepared statement
+stat,(stat:struct stat),(stat)
+stbl,(stbl:sample table),(s tbl)
+stco,(stco:sample table chunk offset),(stco)
+stsc,(stsc:sample table sample chunk map),(stsc)
+stss,(stss:sample table sync samples),(stss)
+stsz,(stsz:sample table sizes),(stsz)
+stts,(stts:sample table time sample map),(stts)
+sync,(sync:synchronize),(sync)
+newTx,(t:translation-x:mathvariable),new (t)(x)
+newTy,(t:translation-y:mathvariable),new (t)(y)
+tkhd,(tk:track-hd:header),(tk)(hd)
+TL_inputMediaPhoto,(tl:telegram-photo:photograph),(TL) input Media (Photo)
+TL_inputMessagesFilterUrl,(tl:telegram-url:universal resource locator),(TL) input messages filter (u r l)
+TL_messageEntityTextUrl,(tl:telegram-url:universal resource locator),(TL) input message Entity Text (U r l)
+TL_messageEntityUrl,(tl:telegram-url:universal resource locator),(TL) input message Entity (U r l)
+TL_account_reportPeer,(tl:telegram),(TL) account report peer
+TL_channels_getMessages,(tl:telegram),(TL) channels get Messages
+TL_DraftMesageEmpty,(tl:telegram),(TL) Draft Messsage Empty
+TL_draftMessage,(tl:telegram),(TL) draft Message
+TL_error,(tl:telegram),(TL) Error
+TL_inputMessagesFilterDocument,(tl:telegram),(TL) input messages Filter Document
+TL_inputMessagesFilterEmpty,(tl:telegram),(TL) input Messages Filter Empty
+TL_inputMessagesFilterMusic,(tl:telegram),(TL) input messages Filter Music
+TL_inputMessagesFilterVoice,(tl:telegram),(TL) input messages Filter Voice
+TL_messageActionHistoryClear,(tl:telegram),(TL) message Action History Clear
+TL_messages_channelMessages,(tl:telegram),(TL) messages channel Messages
+TL_messages_getAllDrafts,(tl:telegram),(TL) messages get all drafts
+TL_messages_getMessages,(tl:telegram),(TL) messages get Messages
+TL_messages_messageSlice,(tl:telegram),(TL) messages message Slice
+TL_messages_saveDraft,(tl:telegram),(TL) messages save Draft
+TL_messages_search,(tl:telegram),(TL) messages search
+TL_updates,(tl:telegram),(TL) updates
+TL_updateServiceNotification,(tl:telegram),(TL) update Service Notification
+TLdeserialize,(tl:telegram),(TL) deserialize
+TLObject,(tl:telegram),(TL) Object
+TLRPC,(tlrpc:telegram remote procedure call),(TL R P C)
+TLRPC,(tlrpc:telegram remote procedure call),(TLRPC)
+destroyTtl,(ttl:time to live),destroy (t t l)
+ttl,(ttl:time to live),(ttl)
+ttl_seconds,(ttl:time to live),(ttl) seconds
+uid,(u:unique-id:identifier),(u) (id)
+writeUInt32,(u:unsigned-int:integer),write (U)(Int) 32
+writeUInt64,(u:unsigned-int:integer),write (U)(Int) 64
+u,(u:user),(u)
+runOnUIThread,(ui:user interface),run On (U I) thread
+runOnUIThread,(ui:user interface),run On (U I) thread
+runOnUIThread,(ui:user interface),run On (U I) thread
+Uri,(uri:universal resource identifier),(u r i)
+MEDIA_URL,(url:uniform resource locator),MEDIA (U R L)
+url,(url:uniform resource locator),(u r l)
+US,(us:united states),(US)
+GooglePlayServicesUtil,(util:utility),Google Player Services (util)
+TextUtils,(utils:utilities),text (utils)
+vx,(v:velocity-x:mathvariable),(v)(x)
+vy,(v:velocity-y:mathvariable),(v)(y)
+v,(v:view),(v)
+BuildVars,(vars:variables),build (vars)
+VpaListenerAdapter,(vpa:view property animator),(v p a) listener adapter
+wm,(wm:windows manager),(wm)
+x,(x:mathvariable;offset),(x)
+animateToX,(x:mathvariable),animate to (x)
+currentTranslationX,(x:mathvariable),current translation (x)
+deltaX,(x:mathvariable),delta (x)
+distanceX,(x:mathvariable),distance (x)
+fromX,(x:mathvariable),from (x)
+getImageX,(x:mathvariable),get image (x)
+getStartX,(x:mathvariable),get Start (X)
+getTranslationX,(x:mathvariable),get translation (x)
+moveStartX,(x:mathvariable),move start (x)
+pinchCenterX,(x:mathvariable),pinch center (x)
+pinchStartX,(x:mathvariable),pinch start (x)
+setScaleX,(x:mathvariable),set scale (x)
+setTranslationX,(x:mathvariable),set translation (x)
+velocityX,(x:mathvariable),velocity (x)
+animateToY,(y:mathvariable),animate to (y)
+currentTranslationY,(y:mathvariable),current translation (y)
+deltaY,(y:mathvariable),delta (y)
+distanceY,(y:mathvariable),distance (y)
+dragY,(y:mathvariable),drag (y)
+fromY,(y:mathvariable),from (y)
+getImageY,(y:mathvariable),get image (y)
+getStartY,(y:mathvariable),get Start (Y)
+getTranslationY,(y:mathvariable),get translation (y)
+moveStartY,(y:mathvariable),move start (y)
+pinchCenterY,(y:mathvariable),pinch center (y)
+pinchStartY,(y:mathvariable),pinch start (y)
+setScaleY,(y:mathvariable),set scale (y)
+setTranslationY,(y:mathvariable),set translation (y)
+velocityY,(y:mathvariable),velocity (y)

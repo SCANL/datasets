@@ -1,0 +1,280 @@
+Original identifier,"(Abbreviation:Expansion,...)",Split Identifier
+afm,(afm:adobe font metrics),(a f m)
+afm_cache,(afm:adobe font metrics),(a f m) cache
+afm_info_cache,(afm:adobe font metrics-info:information),(afm) (info) cache
+afm_path,(afm:adobe font metrics),(afm) path
+AFMHandle,(afm:adobe font metrics),(afm) Handle
+APPEND_CH,(ch:character),append (ch)
+append_ctrl_D,(ctrl:control-d:distinguisher),(ctrl) (D)
+argc,(arg:argument-c:count),(arg)(c)
+argv,(arg:argument-v:value),(arg)(v)
+atan2,(atan:arctangent-2:distinguisher),(atan) (2)
+atof,(a:American Standard Code for Information Interchange-f:float),(a) to (f)
+atoi,(a:American Standard Code for Information Interchange-i:integer),(a) to (i)
+b,(b:blue),(b)
+bgcolor,(bg:background),(bg) color
+bs,(bs:backspace),(bs)
+buf,(buf:buffer),(buf)
+buf2,(buf:buffer-2:distinguisher),(buf) (2)
+buffer_alloc,(alloc:allocate),buffer (alloc)
+buffer_append_len,(len:length),buffer append (len)
+buffer_init,(init:initialize),buffer (init)
+buffer_ptr,(ptr:pointer),buffer (ptr)
+buffer_uninit,(init:initialize),buffer un (init)
+c,(c:character),(c)
+CachedFontInfo,(info:information),cached font (info)
+CFG_FATAL,(cfg:configure),(cfg) fatal
+char,(char:character),(char)
+cmd,(cmd:command),(cmd)
+cmdlen,(cmd:command-len:length),(cmd)(len)
+cofp,(cofp:current output file pointer),(c o f p)
+col,(col:column),(col)
+color_st,(st:struct),color (st)
+COUR,(cour:courier),(cour)
+cp,(cp:character pointer),(cp)
+cp2,(cp:character pointer-2:distinguisher),(cp) (2)
+ctx,(ctx:context),(ctx)
+current_file_linenum,(num:number),current file line (num)
+current_pagenum,(num:number),current page (num)
+d_footer_h,(d:dimension-h:height),(d) footer (h)
+d_header_h,(d:dimension-h:height),(d) header (h)
+d_header_w,(d:dimension-w:width),(d) header (w)
+d_output_h,(d:dimension-h:height),(d) output (h)
+d_output_w,(d:dimension-w:width),(d) output (w)
+d_output_x_margin,(d:dimension-x:mathvariable),(d) output (x) margin
+d_output_y_margin,(d:dimension-y:mathvariable),(d) output (y) margin
+d_page_h,(d:dimension-h:height),(d) page (h)
+d_page_w,(d:dimension-w:width),(d) page (w)
+data_in_buf,(buf:buffer),data in (buf)
+default_escape_char,(char:character),default escape (char)
+default_Fencoding,(f:font),default (f) ecoding
+default_Fname,(f:font),default (f) name
+default_Fpt,(f:font-pt:point),default (f)(pt)
+divertfp,(f:file-p:pointer),divert (f)(p)
+dump_ps_header,(ps:postscript),dump (ps) header
+dump_ps_page_header,(ps:postscript),dump (ps) page header
+dump_ps_page_trailer,(ps:postscript),dump (ps) page trailer
+ENC_ASCII,(enc:encode-ascii:american standard code information interchange),(enc) (ascii)
+ENC_ASCII_DKNO,(enc:encode-ascii:american standard code information interchange-dk:denmark-no:norway),(enc) (ascii) (dk)(no)
+ENC_ASCII_FISE,(enc:encode-ascii:american standard code information interchange-fi:finland-se:sweden),(enc) (ascii) (fi)(se)
+ENC_HP8,(enc:encode-hp:hewlett packard-8:distinguisher),(enc) (hp)(8)
+ENC_IBMPC,(enc:encode-ibm:international business machines-pc:personal computer),(enc) (ibm)(pc)
+ENC_ISO_8859_1,(enc:encode-iso:international standards organization),(ENC) (I S O) 8859 1
+ENC_ISO_8859_10,(enc:encode-iso:international standards organization),(enc) (iso) 8859 10
+ENC_KOI8,(enc:encode-koi:kod obmena informatsiey),(enc) (koi) 8
+ENC_MAC,(enc:encode-mac:macintosh),(enc) (mac)
+ENC_PS,(enc:encode-ps:postscript),(enc) (ps)
+ENC_VMS,(enc:encode-vms:virtual memory system),(enc) (vms)
+encp,(enc:encode-p:pointer),(enc) (p)
+enum,(enum:enumerator),(enum)
+epsf,(epsf:encapsulated postscript file),(epsf)
+errno,(errno:error number),(errno)
+ESC_BGCOLOR,(esc:escape-bg:background),(esc) (bg) color
+ESC_BGGRAY,(esc:escape-bg:background),(esc) (bg) gray
+ESC_COLOR,(esc:escape),(esc) color
+ESC_COMMENT,(esc:escape),(esc) comment
+ESC_EPSF,(esc:escape-epsf:encapsulated postscript file),(esc) (epsf)
+ESC_ESCAPE,(esc:escape),(esc) escape
+ESC_FONT,(esc:escape),(esc) font
+ESC_LOADX,(esc:escape-x:mathvariable),(esc) load (x)
+ESC_NEWPAGE,(esc:escape),(esc) new page
+ESC_P,(esc:escape-p:postscript),(esc) (p)
+ESC_SAVEX,(esc:escape-x:mathvariable),(esc) save (x)
+ESC_SETFILENAME,(esc:escape),(esc) set file name
+ESC_SETPAGENUMBER,(esc:escape),(esc) set page number
+ESC_SHADE,(esc:escape),(esc) shade
+escape_char,(char:character),escape (char)
+F_EPSF_CENTER,(f:flag-epsf:encapsulated postscript file),(f) (epsf) center
+F_EPSF_NO_CPOINT_UPDATE_X,(f:flag-epsf:encapsulated postscript file-c:current),(f) (epsf) no (c) point up
+fclose,(f:file),(f) close
+fflush,(f:file),(f) flush
+fgets,(f:file-s:string),(f) get (s)
+file_existsp,(p:predicate),file exists (p)
+file_lookup_ctx_st,(ctx:context-st:struct),file lookup (ctx) (st)
+first_pagenum_for_file,(num:number),first page (num) for file
+fName,(f:font),(f) name
+fname,(f:file),(f) name
+font_bbox_lly,(b:bounding-ll:lower left-y:mathvariable),font (b) box (l l) (y)
+font_ctype,(c:character),font (c) type
+fopen,(f:file),(f) open
+fp,(f:file-p:pointer),(f) (p)
+fprintf,(f:file-f:format),(f) print (f)
+Fpt,(f:font-pt:point),(f)(pt)
+fwrite,(f:file),(f) write
+g,(g:green),(g)
+getcwd,(cwd:current working directory),get (c w d)
+getopt,(opt:option),get (opt)
+getpwnam,(pwnam:password name),get (pwnam)
+gs_token_st,(gs:gnu enscript-st:struct),(gs) token (st)
+h,(h:height),(h)
+handle_env_options,(env:environment),handle (env) options
+HAVE_LC_MESSAGES,(lc:locale),have (lc) messages
+HDR_SIMPLE,(hdr:header),(hdr) simple
+HDR_TAG,(hdr:header),(hdr) tag
+HFname,(hf:header font),(h f) name
+HFpt,(hf:header font-pt:point),(h f)(pt)
+hl_start_state,(hl:highlight),(hl) start state
+i,(i:integer),(i)
+i,(i:index),(i)
+inp,(in:input-p:pointer),(in) (p)
+input_filenum,(num:number),input file (num)
+input_filenum,(num:number),input file (num)
+input_filter_stdin,(stdin:standard input),input filter (stdin)
+int,(int:integer),(int)
+is,(is:input stream),(i s)
+is_getc,(is:input stream-c:character),(is) get (c)
+is_toc,(toc:table of contents),is (t o c)
+,,
+kv,(kv:key value),(kv)
+last_was_cr,(c:carriage-r:return),last was (c)(r)
+LE_CHAR_WRAP,(le:line end-char:character),(le) (char) wrap
+libpath,(lib:library),(lib) path
+line_indent_spec,(spec:specification),line indent (spec)
+linenum,(num:number),line (num)
+linepos,(pos:position),line (pos)
+linew,(w:width),line (w)
+llx,(ll:lower left-x:mathvariable),(ll) (x)
+lly,(ll:lower left-y:mathvariable),(ll) (y)
+M_EPSF_JUSTIFICATION,(m:mask-epsf:encapsulated postscript file),(M) (epsf) justification
+margins_spec,(spec:specification),margins (spec)
+media_entry_st,(st:struct),media entry (st)
+memcpy,(memcpy:memory copy),(memcpy)
+mfp,(mfp:message file pointer),(mfp)
+missing_chars,(chars:characters),missing (chars)
+mod_tm,(mod:modification-tm:time),(mod)(tm)
+msg,(msg:message),(msg)
+MWLS_NONE,(mwls:mark wrapped lines style),(mwls) none
+NEED_NBYTES,(n:number),need (n) bytes
+new_col,(col:column),new (col)
+new_x,(x:mathvariable),new (x)
+new_y,(y:mathvariable),new (y)
+nl,(nl:new line),(n l)
+non_printable_chars,(chars:characters),non printable (chars)
+npf_name,(npf:nonprintable format),(npf) name
+NPF_OCTAL,(npf:nonprintable format),(npf) octal
+nreads,(n:number),(n) reads
+num_columns,(num:number),(num) columns
+num_copies,(num:number),(num) copies
+num_missing_chars,(num:number-chars:characters),(num) missing (chars)
+num_non_printable_chars,(num:number-chars:characters),(num) non printable (chars)
+num_truncated_lines,(num:number),(num) truncated lines
+nup,(n:number),(n) up
+nup_columns,(n:number),(n) up columns
+nup_columnwise,(n:number),(n) up columnwise
+nup_exp,(n:number-exp:exponent),(n) up (exp)
+nup_height,(n:number),(n) up height
+nup_landscape,(n:number),(n) up landscape
+nup_rows,(n:number),(n) up rows
+nup_scale,(n:number),(n) up scale
+nup_width,(n:number),(n) up width
+nup_xpad,(n:number-x:mathvariable),(n) up (x) pad
+nup_ypad,(n:number-y:mathvariable),(n) up (y) pad
+ofp,(ofp:output file pointer),(o f p)
+ofp,(ofp:output file pointer),(ofp)
+optarg,(opt:option-arg:argument),(opt) (arg)
+outp,(out:output-p:pointer),(out) (p)
+page_range_st,(st:struct),page range (st)
+passwd,(passwd:password),(passwd)
+paste_epsf,(epsf:encapsulated postscript file),past (epsf)
+PATH_MAX,(max:maximum),path (max)
+PathWalkProc,(proc:process),path walk (proc)
+pclose,(p:pipe),(p) close
+pipe_cmd,(cmd:command),pipe (cmd)
+popen,(p:pipe),(p) open
+pos,(pos:position),(pos)
+PrinterCtx,(ctx:context),Printer (Ctx)
+PrinterCtxRec,(ctx:context-rec:rectangle),Printer (Ctx) (Rec)
+PrinterCtxStruct,(ctx:context),Printer (Ctx) Struct
+proc,(proc:process),(proc)
+ps_header_dumped,(ps:postscript),(ps) header dumped
+pslevel,(ps:postscript),(ps) level
+pswd,(pswd:password),(pswd)
+pw_name,(pw:password),(pw) name
+queue_param,(param:parameter),queue (param)
+r,(r:red),(r)
+rbuf,(r:ring-buf:buffer),(r)(buf)
+rbuflen,(rbuflen:ring buffer length),(rbuflen)
+rbufpos,(rbufpos:ring buffer position),(rbufpos)
+read_config,(config:configure),read (config)
+recognize_eps_file,(eps:encapsulated postscript),recognize (eps) file
+res_fonts,(res:resource),(res) fonts
+RESOURCE_DSC,(dsc:document structuring conventions),resource (DSC)
+retval,(retval:return value),(retval)
+run_tm,(tm:time),run (tm)
+skipbuf,(buf:buffer),skip (buf)
+skipbuf_len,(buf:buffer-len:length),skip (buf) (len)
+skipbuf_pos,(buf:buffer-pos:position),skip (buf) (pos)
+sprintf,(s:string-f:format),(s) print (f)
+stat_st,(stat:status-st:structure),(stat) (st)
+statusdict,(dict:dictionary),status (dict)
+stderr,(stderr:standard error),(stderr)
+str,(str:string),(str)
+strcmp,(strcmp:string compare),(strcmp)
+strerror,(str:string),(str) error
+strftime,(str:string-f:format),(str) (f) time
+StringHashPtr,(ptr:pointer),string hash (ptr)
+strncmp,(str:string-n:number-cmp:compare),(str) (n) (cmp)
+strrchr,(str:string-r:reverse-chr:character),(str) (r) (chr)
+tBGCOLOR,(t:type-bg:background),(t) (bg) color
+tCARRIAGE_RETURN,(t:type),(t) carriage return
+tCOLOR,(t:type),(t) color
+tEOF,(t:type-eof:end of file),(t) (e o f)
+tEPSF,(t:type-epsf:encapsulated postscript file),(t) (epsf)
+tFONT,(t:type),(t) font
+tFORMFEED,(t:type),(t) formfeed
+tilde_subst,(subst:substitution),tilde (subst)
+tLOADX,(t:type-x:mathvariable),(t) load (x)
+tm,(tm:time),(tm)
+tm_hour,(tm:time),(tm) hour
+tm_mday,(tm:time-m:month),(tm) (m) day
+tm_min,(tm:time-min:minute),(tm) (min)
+tm_mon,(tm:time-mon:month),(tm) (mon)
+tm_sec,(tm:time-sec:second),(tm) (sec)
+tmpfile,(tmp:temporary),(tmp) file
+tmpnam,(tmp:temporary-nam:name),(tmp)(nam)
+tNEWLINE,(t:type),(t) newline
+tNEWPAGE,(t:type),(t) new page
+tNONE,(t:type),(t) none
+toc,(toc:table of contents),(t o c)
+tPS,(t:token-ps:postscript),(t)(ps)
+tSAVEX,(t:type-x:mathvariable),(t) save (x)
+tSETFILENAME,(t:type),(t) set file name
+tSETPAGENUMBER,(t:type),(t) set page number
+tSTRING,(t:type),(t) string
+tWRAPPED_NEWLINE,(t:type),(t) wrapped newline
+u,(u:union),(u)
+ul_angle,(ul:underlay),(u l) angle
+ul_angle_p,(ul:underlay-p:predicate),(u l) angle (p)
+ul_font,(ul:underlay),(u l) font
+ul_gray,(ul:underlay),(u l) gray
+ul_position,(ul:underlay),(u l) position
+ul_position_p,(ul:underlay-p:predicate),(u l) position (p)
+ul_ptsize,(ul:underlay-pt:point),(u l) (pt) size
+ul_style,(ul:underlay),(u l) style
+ul_style_str,(ul:under lay-str:string),(u l) style (str)
+ul_x,(ul:underlay-x:mathvariable),(u l) (x)
+ul_y,(ul:underlay-y:mathvariable),(u l) (y)
+unget_alloc,(alloc:allocate),unget (alloc)
+unget_ch,(ch:character),unget (ch)
+unget_pos,(pos:position),unget (pos)
+urx,(ur:upper right-x:mathvariable),(u r x) (x)
+ury,(ur:upper right-y:mathvariable),(u r y) (x)
+user_bgcolorp,(bg:background-p:predicate),user (bg) color (p)
+user_colorp,(p:predicate),user color (p)
+user_font_pt,(pt:point),user font (pt)
+user_fontp,(p:predicate),user font (p)
+val,(val:value),(val)
+var,(var:variable),(var)
+w,(w:width),(w)
+w0x,(w:character width-0:distinguisher-x:mathvariable),(w) (0) (x)
+w0y,(w:character width-0:distinguisher-y:mathvariable),(w) (0) (y)
+x,(x:offset),(x)
+xcalloc,(x:checked-calloc:contiguous allocate),(x) (calloc)
+xfree,(x:checked),(x) free
+xmalloc,(x:checked-malloc:memory allocate),(x) (malloc)
+xrealloc,(x:checked-realloc:reallocate),(x) (realloc)
+xscale,(x:mathvariable),(x) scale
+xstore,(x:mathvariable),(x) store
+xstrdup,(x:checked-strdup:string duplicate),(x) (strdup)
+y,(y:offset),(y)
+yscale,(y:mathvariable),(y) scale

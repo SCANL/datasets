@@ -1,0 +1,251 @@
+Original identifier,"(Abbreviation:Expansion,...)",Split Identifier
+aCheckNameHdl,(a:value-hdl:handle),(a) check name (hdl)
+aIter,(a:value-iter:iterator),(a) (iter)
+aModSizeException,(a:value-mod:module),(a)(mod) Size Exception
+aNewPos,(a:value-pos:position),(a) new (pos)
+aRet,(a:value-ret:return),(a) (ret)
+aSeq,(a:value-seq:sequence),(a) (seq)
+aStrURL,(a:value-str:string-url:uniform resource locator),(a) (str) (u r l)
+aStrMark,(a:value-str:string),(a) (str) mark
+aNamespaceURL,(a:value-url:uniform resource locator),(a) namespace (U R L)
+aMessage,(a:value),(a) message
+addr,(addr:address),(addr)
+VirtualAlloc,(alloc:allocate),virtual (alloc)
+GetAltText,(alt:alternate),get (alt) text
+map_anon,(anon:anonymous),map (anon)
+apiret,(api:application programmer interface-ret:return),(api) (ret)
+atts,(atts:attributes),(atts)
+bEditFmt,(b:boolean-fmt:format),(b) edit (fmt)
+bFmt,(b:boolean-fmt:format),(b)(fmt)
+_bVal,(b:boolean-val:value),(b) (val)
+bIsStoring,(b:boolean),(b) Is storing
+_bByCharacter,(b:boolean),(b) by character
+_bOriginatesFromDocument,(b:boolean),(b) originates from document
+_bTryBothDirections,(b:boolean),(b) try both directions
+bCheckImmediately,(b:boolean),(b) check immediately
+bDoit,(b:boolean),(b) do it
+freebsd,(bsd:berkley software distribution),free (bsd)
+CntHTTPCookie,(cnt:content-http:hypertext transfer protocol),(cnt) (http) cookie
+CntHTTPCookieRequest,(cnt:content-http:hypertext transfer protocol),(cnt) (http) cookie request
+const,(const:constant),(const)
+SetCurPageId,(cur:current-id:identifier),set (cur) page (id)
+DECL_ABSTDLG_BASE,(decl:declare-abst:abstract-dlg:dialog),(decl) (abst) (dlg) base
+DECL_LINK,(decl:declare),(decl) link
+BUTTONDIALOG_DEFBUTTON,(def:define),button dialog (def) button
+dosallocmem,(dos:disk operating system-alloc:allocate-mem:memory),(dos) (alloc) (mem)
+dwpagesize,(dw:double word),(dw) page size
+eHor,(e:enumeration-hor:horizontal),(e) (hor)
+eVer,(e:enumeration-ver:vertical),(e) (ver)
+_eDefaultDirection,(e:enumerator),(e) default direction
+_ePrimaryConversionDirection,(e:enumerator),(e) primary converstion direction
+_eType,(e:enumerator),(e) type
+editeng,(eng:engine),edit (eng)
+ErrCode,(err:error),(err) Code
+fprintf,(f:file-f:format),(f) print (f)
+fScaleX,(f:float-x:mathvariable),(f) scale (x)
+fScaleY,(f:float-y:mathvariable),(f) scale (y)
+f,(f:segment),(f)
+fini,(fini:finish),(fini)
+FmShowColsDialog,(fm:file map-cols:columns),(f m) shows (cols) dialog
+AbstractFmInputRecordNoDialog_Impl,(fm:file map-impl:implementation),abstract (f m) input record no dialog (impl)
+AbstractFmSearchDialog_Impl,(fm:file map-impl:implementation),abstract (f m) search dialog (impl)
+FmFormShell,(fm:file map),(f m) form shell
+FmInputRecordNoDialog,(fm:file map),(f m) input record no dialog
+FmSearchDialog,(fm:file map),(f m) search dialog
+g_arena_list,(g:global),(g) arena list
+gp_arena_arena,(gp:global pointer),(g p) arena arena
+CheckNameHdl,(hdl:handle),check name (hdl)
+EndDialogHdl,(hdl:handle),end dialog (hdl)
+GetDistributeHor,(hor:horizontal),get distribute (hor)
+i,(i:index),(i)
+INetURLObject,(i:interface-net:network-url:uniform resource locator),(i)(net) (u r l) object
+publicId,(id:identifier),public (id)
+systemId,(id:identifier),system (id)
+IMG_VER_HIGH,(img:image-ver:vertical),(IMG)(VER) HIGH
+IMPL_ABSTDLG_BASE,(impl:implement-abst:abstract-dlg:dialog),(impl) (abst) (dlg) base
+AbstractTabDialog_Impl,(impl:implementation),abstract tab dialog (impl)
+InsertObjectDialog_Impl,(impl:implementation),insert object dialog (impl)
+FastLocatorImpl,(impl:implementation),fast locator (impl)
+int,(int:integer),(int)
+LANG_LIST_WESTERN,(lang:language),(LANG) LIST WESTERN
+typelib_TypeDescription,(lib:library),type (lib) Type Description
+lnk,(lnk:link),(lnk)
+lpvoid,(lp:long pointer),(l p) void
+m_hash_table_0,(m:member-0:distinguisher),(m) hash table (0)
+m_aEndDlgHdl,(m:member-a:value-dlg:dialog-hdl:handle),(m) (a) end (dlg) (hdl)
+maElementName,(m:member-a:value),(m) (a) Element Name
+maNamespace,(m:member-a:value),(m) (a) namespace
+maPrefix,(m:member-a:value),(m) (a) prefix
+m_addr,(m:member-addr:address),(m) (addr)
+m_alloc,(m:member-alloc:allocate),(m) (alloc)
+m_fnext,(m:member-f:segment),(m) (f) next
+m_fprev,(m:member-f:segment),(m) (f) prev
+mnElementToken,(m:member-n:number),(m) (n) element token
+mnNamespaceCount,(m:member-n:number),(m) (n) namespace count
+m_pDlg,(m:member-p:pointer-dlg:dialog),(m) (p) (dlg)
+mpParser,(m:member-p:pointer),(m) (p) parser
+m_qcache_max,(m:member-qcache:quantum cache-max:maximum),(m) (qcache) (max)
+m_qcache_ptr,(m:member-qcache:quantum cache-ptr:pointer),(m) (qcache) (ptr)
+m_snext,(m:member-s:segment),(m) (s) next
+m_stats,(m:member-stats:status),(m) (stats)
+mxContext,(m:member-x:uno reference),(m) (x) context
+mxDocumentLocator,(m:member-x:uno reference),(m) (x) document locator
+mxTokenHandler,(m:member-x:uno reference),(m) (x) token handler
+m_free,(m:member),(m) free
+m_hash_size,(m:member),(m) hash size
+m_hash_table,(m:member),(m) hash table
+m_name,(m:member),(m) name
+m_size,(m:member),(m) size
+m_type,(m:member),(m) type
+mmap,(m:member),(m) map
+munmap,(m:member),(m) unmap
+m_snext,(m:memory-s:segment),(m) (s) next
+mem_commit,(mem:memory),(mem) commit
+memset,(mem:memory),(mem) set
+MessBox,(mess:message),(mess) box
+nBtnId,(n:number-btn:button-Id:identifier),(n) (btn) (Id)
+nId,(n:number-Id:identifier),(n) (Id)
+nLang,(n:number-lang:language),(n) (lang)
+nLen,(n:number-len:length),(n) (len)
+nNameLen,(n:number-len:length),(n) name (len)
+nPrefixLen,(n:number-len:length),(n) prefix (len)
+nseg,(n:number-seg:segment),(n) (seg)
+n,(n:number),(n)
+nSize,(n:number),(n) size
+nError,(n:number),(n) error
+nMax,(n:number),(n) max
+nNew,(n:number),(n) new
+nResult,(n:number),(n) result
+nOffset,(n:number),(n) offset
+nToken,(n:number),(n) token
+netbsd,(net:network-bsd:berkley software distribution),(net) (bsd)
+DONTKNOW,(nt:not),Do (nt) know
+obj_any,(obj:object),(obj) any
+osl_postcond,(osl:operating system library-cond:condition),osl post (cond)
+osl_assert,(osl:operating system library),(o s l)
+pAddr,(p:pointer-addr:address),(p) addr
+pAttrSet,(p:pointer-attr:attribute),(p) (attr) set
+pDesc,(p:pointer-desc:description),(p) desc
+pDlg,(p:pointer-dlg:dialog),(p) (dlg)
+pResMgr,(p:pointer-res:resource-mgr:manager),(p) (res) (mgr)
+pNamespaceURL,(p:pointer-url:uniform resource locator),(p) namespace (u r l)
+pArena,(p:pointer),(p) arena
+pSize,(p:pointer),(p) size
+pParent,(p:pointer),(p) parent
+pGraphicMediaType,(p:pointer),(p) graphic media type
+pInSet,(p:pointer),(p) in set
+PLinkStub,(p:pointer),(p) link stub
+p,(p:pointer),(p)
+pag_commit,(pag:page),(pag) commit
+ppsegment,(pp:pointer pointer),(pp) segment
+SetPrevHdl,(prev:previous-hdl:handle),set (prev) (hdl)
+prev,(prev:previous),(prev)
+prot_write,(prot:protect),(prot) write
+qsv_page_size,(qsv:query system value),(qsv) page size
+rAttrs,(r:reference-attrs:attributes),(r)(Attrs)
+_rHdl,(r:reference-hdl:handle),(r) (hdl)
+rEndDialogHdl,(r:reference-hdl:handle),(r) end dialog (hdl)
+rNEvt,(r:reference-N:notify-Evt:event),(r) (N) (EVT)
+rpName,(r:reference-p:pointer),(r) (p) name
+rStr,(r:reference-str:string),(r) (str)
+rNewTxt,(r:reference-txt:text),(r) new (txt)
+rURL,(r:reference-url:uniform resource locator),(r) (u r l)
+_rxFrame,(r:reference-x:uno reference),(r) (x) frame
+_rNewString,(r:reference),(r) new string
+_rSuggestions,(r:reference),(r) suggestions
+rGraphic,(r:reference),(r) graphic
+rLink,(r:reference),(r) link
+rName,(r:reference),(r) name
+rRequest,(r:reference),(r) request
+rData,(r:reference),(r) data
+rEntity,(r:reference),(r) entity
+rPrefix,(r:reference),(r) prefix
+rc,(rc:return code),(rc)
+ResId,(res:resource-id:identifier),(res) (id)
+ResMgr,(res:resource-mgr:manager),(res) (mgr)
+CreateResMgr,(res:resource-mgr:manager),create (res) (mgr)
+RET_CANCEL,(ret:return),(ret) cancel
+RET_NO,(ret:return),(ret) no
+RET_YES,(ret:return),(ret) yes
+RTL_TEXTENCODING_ASCII_US,(RTL:run time library-ASCII:american standard code information exchange-US:united states),(R T L) text encoding (ASCII) (US)
+RTL_CONSTASCII_USTRINGPARAM,(RTL:run time library-Const:constant-ASCII:american standard code information exchange-U:unicode-Param:parameter),(R T L) (Const) (ASCII) (U) string (Param)
+RTL_CONSTASCII_USTRINGPARAM,(rtl:run time library-const:constant-ascii:american standard code information exchange-u:utf8-param:parameter),(r t l) (const) (ascii) (u) string (param)
+rtl_arena_fini,(rtl:run time library-fini:finish),(r t l) arena (fini)
+rtl_arena_init,(rtl:run time library-init:initialize),(rtl) arena (init)
+rtl_machdep_alloc,(rtl:run time library-machdep:machine dependent-alloc:allocat),(r t l) (machdep) (alloc)
+rtl_memory_p2roundup,(rtl:run time library-p2:power of 2),(r t l) memory (p2) roundup
+RTL_TEXTENCODING_UTF8,(RTL:run time library-UTF8:universal transformation format 8),(R T L) text encoding (UTF8)
+rtl_arena_segment_populate,(rtl:run time library),(r t l) arena segment populate
+rtl_arena_type,(rtl:run time library),(r t l) arena type
+rtl,(rtl:run time library),(r t l)
+s,(s:segment),(s)
+sPublicId,(s:string-id:identifier),(s) public (id)
+sSystemId,(s:string-id:identifier),(s) system (id)
+s,(s:string),(s)
+sEncoding,(s:string),(s) encoding
+sal_Int32,(sal:system abstraction layer-int:integer-32:distinguisher),(s a l) (int) (32)
+sal_int_cast,(sal:system abstraction layer-int:integer),(s a l) (int) cast
+sal_os2,(sal:system abstraction layer-os:operating system-2:distinguisher),(sal) (o s) (2)
+sal_uInt16,(sal:system abstraction layer-u:unsigned-int:integer),(s a l) (u) (int) 16
+sal_uintptr,(sal:system abstraction layer-uint:unsigned integer-ptr:pointer),(s a l) (uint) (ptr)
+sal_unx,(sal:system abstraction layer-unx:unix),(sal) (unx)
+sal_w32,(sal:system abstraction layer-w32:windows 32),(sal) (w32)
+SAL_CALL,(sal:system abstraction layer),(s a l) call
+sal_size,(sal:system abstraction layer),(s a l) size
+sal_Bool,(sal:system abstraction layer),(s a l) bool
+SAXException,(SAX: simple API XML),(SAX) Exception
+_sc_pagesize,(sc:system configure),(s c) page size
+SelLeft,(sel:select),(sel) left
+SfxItemPool,(sfx:staroffice application framework),(s f x) item pool
+SfxModalDialog,(sfx:staroffice application framework),(s f x) modal dialog
+SfxTabDialog,(sfx:staroffice application framework),(s f x) tab dialog
+snprintf,(snprintf:string number print formatted),(snprintf)
+std,(std:standard),(std)
+STR_ALREADYOPEN_READONLY_BTN,(str:string-btn:button),(str) already open read only (btn)
+STR_ALREADYOPEN_RETRY_SAVE_BTN,(str:string-btn:button),(str) already open retry save (btn)
+STR_ALREADYOPEN_SAVE_BTN,(str:string-btn:button),(str) already open save (btn)
+strncmp,(str:string-n:number-cmp:compare),(str) (n) (cmp)
+STR_ALREADYOPEN_TITLE,(str:string),(str) already open title
+strField,(str:string),(str) field
+getStr,(str:string),get (str)
+sunpro_c,(sunpro:sunpro compiler-c:c programming language),(sunpro) (c)
+sunpro_cc,(sunpro:sunpro compiler-cc:c++ programming language),(sunpro) (cc)
+SVXAutoCorrCFG,(svx:staroffice shared library-corr:correct-cfg:configuration),(SVX) Auto (CORR) (CFG)
+AbstractSvxObjectTitleDescDialog_Impl,(svx:staroffice shared library-desc:describe-impl:implementation),abstract (s v x) object title (desc) dialog (impl)
+SvxObjectTitleDescDialog,(svx:staroffice shared library-desc:description),(s v x) object tile (desc) dialog
+SvxObjectTitleDescDialog,(svx:staroffice shared library-desc:description),(s v x) object title (desc) dialog
+AbstractSvxHlinkDlgMarkWnd_Impl,(svx:staroffice shared library-h:handler-dlg:dialog-wnd:window-impl:implementation),abstract (s v x) (h) link (dlg) mark (wnd) (impl)
+AbstractSvxHlinkDlgMarkWnd,(svx:staroffice shared library-h:handler-dlg:dialog-wnd:window),abstract (s v x) (h) link (dlg) mark (wnd)
+SvxHpLinkDlg,(svx:staroffice shared library-hp:hewlett packard-dlg:dialog),(s v x) (hp) link (dlg)
+AbstractSvxCaptionDialog_Impl,(svx:staroffice shared library-impl:implementation),abstract (s v x) caption dialog (impl)
+AbstractSvxDistributeDialog_Impl,(svx:staroffice shared library-impl:implementation),abstract (s v x) distribute dialog (impl)
+AbstractSvxMessDialog_Impl,(svx:staroffice shared library-mess:message-impl:implementation),abstract (s v x) (mess) dialog (impl)
+SvxMessDialog,(svx:staroffice shared library-mess:message),(s v x) (mess) dialog
+SvxMultiFileDialog,(svx:staroffice shared library-multi:multiple),(s v x) (multi) file dialog
+SvxMultiPathDialog,(svx:staroffice shared library-multi:multiple),(s v x) (multi) path dialog
+SvxAreaTabDialog,(svx:staroffice shared library),(s v x) area tab dialog
+SvxCaptionTabDialog,(svx:staroffice shared library),(s v x) caption tab dialog
+SvxDistributeHorizontal,(svx:staroffice shared library),(s v x) distribute horizontal
+SvxDistributeVertical,(svx:staroffice shared library),(s v x) distribute vertical
+SvxHyphenWordDialog,(svx:staroffice shared library),(s v x) hyphen word dialog
+SvxNameDialog,(svx:staroffice shared library),(s v x) name dialog
+SvxNewDictionaryDialog,(svx:staroffice shared library),(s v x) new dictionary dialog
+SvxObjectNameDialog,(svx:staroffice shared library),(s v x) object name dialog
+SvxThesaurusDialog,(svx:staroffice shared library),(s v x) thesaurus dialog
+SvxTransformTabDialog,(svx:staroffice shared library),(s v x) transform tab dialog
+SvxZoomDialog,(svx:staroffice shared library),(s v x) zoom dialog
+sysconf,(sys:system-conf:configure),(sys) (conf)
+size_t,(t:type),size (t)
+ulpagesize,(ul:unsigned long),(ul) page size
+uno,(uno:universal network object),(uno)
+VclAbstractDialog2_Impl,(vcl:visual class library-2:distinguisher-impl:implementation),(v c l) abstract dialog (2) (impl)
+VclAbstractDialog_Impl,(vcl:visual class library-impl:implementation),(v c l) abstract dialog (impl)
+VclAbstractRefreshableDialog_Impl,(vcl:visual class library-impl:implementation),(v c l) abstract refrashable dialog (impl)
+GetDistributeVer,(ver:vertical),get distribute (ver)
+vos,(vos:virtual operating system),(vos)
+xLoc,(x:uno reference-loc:locator),(x) (loc)
+xManager,(x:uno reference),(x) manager
+XML_Char,(XML:extensible markup language-Char:character),(XML) (Char)
+XML_GetCurrentColumnNumber,(XML:extensible markup language),(XML) get current column number
+ifcMember,(ifc:interface),(ifc) member
+VtableSlot,(v:virtual),(V) table Slot

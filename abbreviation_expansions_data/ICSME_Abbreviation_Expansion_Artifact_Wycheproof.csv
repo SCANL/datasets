@@ -1,0 +1,250 @@
+Original identifier,"(Abbreviation:Expansion,...)",Split Identifier
+a,(a:mathvariable;first coefficient of elliptic curve a),(a)
+a,(a:mathvariable;parameter a of the weierstrass representation),(a)
+aad,(aad:additional authenticated data),(a a d)
+abs,(abs:absolute value),(abs)
+AesEaxTest,(Aes:advanced encrpytion standard-EAX:encrypt authenticate translate),(aes) (eax) Test
+AesGcmTest,(Aes:advanced encrpytion standard-GCM:galois counter mode),(Aes) (Gcm) Test
+algorithmA,(a:distinguisher),algorithm (a)
+algorithmB,(b:distinguisher),algorithm (b)
+b,(b:mathvariable;parameter b of the weierstrass representation),(b)
+b,(b:mathvariable;second coefficient of elliptic curve b),(b)
+buf,(buf:buffer),(buf)
+byteNr,(Nr:number),byte (Nr)
+bytesToHex,(Hex:hexadecimal),bytes to (Hex)
+c,(c:cipher),(c)
+c0,(c:cipher-0:distinguisher),(c)(0)
+c1,(c:cipher-1:distinguisher),(c)(1)
+cis,(cis:cipher input stream),(c i s)
+cntTests,(cnt:count),(cnt) Tests
+cos,(cos:cipher output stream),(cos)
+countLsb,(LSB:least significant bit),count (LSB)
+countMsb,(MSB:most significant bit),count (M S B)
+crtcoeff,(crt:chinese remainder theorem-coeff:coefficient),(crt) (coeff)
+ct,(ct:cipher text),(c t)
+ct1,(ct:cipher text-1:distinguisher),(ct)(1)
+ctBuffer,(ct:cipher text),(c t) Buffer
+ctHex,(ct:cipher text-hex:hexadecimal),(c t) (hex)
+ctLength,(ct:cipher text),(c t) Length
+ctSize,(ct:cipher text),(c t) size
+d,(d:mathvariable;private exponent d),(d)
+decBuffer,(dec:decryption),(dec) buffer
+dhiestest,(dh:diffie hellman-ies:integrated encryption scheme),(dh)(ies) test
+DHParameterSpec,(dh:diffie hellman-Spec:specification),(DH) Parameter (Spec)
+dhparams,(dh:diffie hellman-params:parameters),(dh) (params)
+dhprivatekey,(dh:diffie hellman),(dh) private key
+DHTest,(dh:diffie hellman),(DH) Test
+dp,(dp:mathvariable;prime exponent p),(dp)
+dq,(dq:mathvariable;prime exponent q),(dq)
+DSAParams,(dsa:digital signature algorithm-Params:parameters),(dsa) (Params)
+DSAPrivateKey,(dsa:digital signature algorithm),(dsa) Private Key
+dsaPrivateKeySpec,(dsa:digital signature algorithm-Spec:specification),(dsa) Private Key (Spec)
+dsaPublicKeySpec,(dsa:digital signature algorithm-Spec:specification),(dsa) Public Key (Spec)
+dsaTest,(dsa:digital signature algorithm),(dsa) Test
+e,(e:mathvariable;public exponent e),(e)
+EaxTestVector,(EAX:encrypt authenticate translate),(EAX) Test Vector
+EC_MODIFIED_PUBLIC_KEYS,(EC:elliptic curve),(E C) Modified Public Keys
+EC_VALID_PUBLIC_KEY,(EC:elliptic curve),(E C) Valid Public Key
+ECDH_TEST_VECTORS,(ec:elliptic curve-dh:diffie hellman),(ec)(dh) Test Vectors
+ECDH_VARIANTS,(ec:elliptic curve-dh:diffie hellman),(ec)(dh) variants
+EcdhTest,(ec:elliptic curve-dh:diffie hellman),(ec)(dh) Test
+EcdhTestVector,(ec:elliptic curve-dh:diffie hellman),(ec)(dh) Test Vector
+ecdsaAlgorithm,(ec:elliptic curve-dsa:digital signature algorithm),(ec)(dsa) Algorithm
+EcdsaTest,(ec:elliptic curve-dsa:digital signature algorithm),(ec)(dsa) Test
+ECFieldFp,(EC:elliptic curve-FP:finite prime),(E C) Field (F P)
+ECGenParameterSpec,(EC:elliptic curve-Gen:generator-Spec:specification),(E C) (Gen) Parameter (Spec)
+ecies,(Ec:elliptic curve-ies:integrated encryption scheme),(ec)(ies)
+eciesA,(ec:elliptic curve-ies:integrated encryption scheme-a:distinguisher),(ec)(ies) (a)
+eciesB,(ec:elliptic curve-ies:integrated encryption scheme-b:distinguisher),(ec)(ies) (b)
+EciesTest,(Ec:elliptic curve-ies:integrated encryption scheme),(ec)(ies) Test
+ECParameterSpec,(EC:elliptic curve-Spec:specification),(E C) Parameter (Spec)
+ecParams,(ec:elliptic curve-Params:parameters),(e c) (Params)
+ECPoint,(EC:elliptic curve),(E C) Point
+ECPrivateKey,(EC:elliptic curve),(E C) Private Key
+ECPublicKey,(EC:elliptic curve),(E C) Public Key
+ECPublicKeySpec,(EC:elliptic curve-Spec:specification),(E C) Public Key (Spec)
+EcPublicKeyTestVector,(EC:elliptic curve),(E C) Public Key Test Vector
+ecSpec,(EC:elliptic curve-Spec:specification),(E C) (Spec)
+EcUtil,(Ec:elliptic curve),(E c) Util
+elem,(elem:element),(elem)
+enc,(enc:encode),(enc)
+eq,(eq:equals),(eq)
+ex,(ex:exception),(ex)
+expectedStdDev,(stdDev:standard deviation),expected (stdDev)
+extractK,(k:mathvariable;encryption signature integer ECDSA variable k),extract (k)
+extractR,(R:mathvariable;encryption signature integer ECDSA variable r),extract (R)
+extractS,(S:mathvariable;encryption signature integer ECDSA variable s),extract (S)
+f,(f:mathvariable;greatest common denominator f),(f)
+fp,(fp:finite prime),(f p)
+g,(g:generator),(g)
+g,(g:groups),(g)
+gcd,(gcd:greatest common denominator),(gcd)
+GCM_TEST_VECTORS,(gcm:galois counter mode),(gcm) TEST VECTORS
+GCMParameterSpec,(GCM:galois counter mode-Spec:specification),(GCM) Parameter (Spec)
+GcmTestVector,(gcm:galois counter mode),(gcm) Test Vector
+generatePkcs1Vectors,(PKCS:public key cryptography standards),generate (PKCS) 1 vectors
+getA,(A:mathvariable; first coefficient of elliptic curve a),get (A)
+getAffineX,(X:mathvariable;affine xcoordinate),get Affine (X)
+getAffineY,(Y:mathvariable;affine y coordinate),get Affine (Y)
+getAsInt,(int:integer),get as (int)
+getAsJsonArray,(Json:javascript object notation),get As (Js o n) Array
+getAsJsonObject,(Json:javascript object notation),get As (Js o n) Object
+getB,(B:mathvariable;second coefficient of elliptic curve b),get (B)
+getBrainpoolP256r1Params,(p256r1:p256 curve-params:parameters),get brain pool (p256r1) (params)
+getCurrentThreadCpuTime,(cpu:central processing unit),get Current Thread (cpu) Time
+getCurveSpecRef,(Spec:specification-Ref:reference),get Curve (Spec) (Ref)
+getEK_NoNullByte,(EK:encryption key),get (E K) No Null Byte
+getEK_NullByteInPadding,(EK:encryption key),get (E K) Null Byte in Padding
+getEK_NullByteInPkcsPadding,(EK:encryption key-PKCS:public key cryptography standards),get (E K) Null Byte In (P K C S) Padding
+getEK_WrongFirstByte,(EK:encryption key),get (E K) Wrong First Byte
+getEK_WrongSecondByte,(EK:encryption key),get (E K) Wrong Second Byte
+getG,(G:mathvariable;dsa base g),get (G)
+getL,(L:length),get (L)
+getNistP224Params,(Nist:national institute standards technology-P224:p224 curve-Params:parameters),get (N i s t) (P224) (Params)
+getNistP256Params,(Nist:national institute standards technology-P256:NIST p256 curve-Params:parameters),get (N i s t) (P256) (Params)
+getNistP384Params,(Nist:national institute standards technology-P384:p384 curve-Params:parameters),get (N i s t) (P384) (Params)
+getNistP521Params,(Nist:national institute standards technology-P521:p521 curve-Params:parameters),get (N i s t) (P521) (Params)
+getP,(P:mathvariable;dsa prime p),get (P)
+getParams,(Params:parameters),get (Params)
+getQ,(Q:mathvariable;dsa subprime q),get (Q)
+getS,(S:mathvariable;ecdsa private value s),get (S)
+getSpec,(spec:specification),get (spec)
+getThreadMXBean,(MX:managed extension),get Thread (M X) Bean
+getW,(w:mathvariable;public point w),get (w)
+getX,(X:mathvariable;private key x),get (X)
+getX509EncodedKeySpec,(X509:x509 standard specification-Spec:specification),get (X509) Encoded Key (Spec)
+getY,(Y:mathvariable;public key y),get (Y)
+gy,(gy:mathvariable;y coordinate of generator),(gy)
+h,(h:mathvariable;cofactor),(h)
+h,(h:mathvariable;truncated messaage digest),(h)
+hi,(hi:high),(hi)
+idx,(idx:index),(idx)
+ike1536,(ike:internet key exchange),(ike) 1536
+ike2048,(ike:internet key exchange),(ike) 2048
+inBuf,(in:input-Buf:buffer),(in) (Buf)
+init,(init:initialize),(init)
+initCipher,(init:initialize),(init) cipher
+initSign,(init:initialize),(init) sign
+initVerify,(init:initialize),(init) Verify
+inputRO,(RO:read only),input (R O)
+InvalidKeySpecException,(Spec:specification),Invalid Key (Spec) Exception
+is,(is:input stream),(i s)
+isCurrentThreadCpuTimeSupported,(cpu:central processing unit),is current thread (cpu) time supported
+isCurrentThreadCpuTimeSupported,(cpu:central processing unit),is Current Thread (cpu) Time Supported
+isValidBER,(BER:basic encoding rules),is Valid (B E R)
+isValidDER,(DER:distinguished encoding rules),is Valid (D E R)
+iv,(iv:initialization vector),(i v)
+IvParameterSpec,(Iv:initialization vector-Spec:specification),(I v) Parameter (Spec)
+JsonObject,(Json:javascript object notation),(Json) Object
+JsonSignatureTest,(Json:javascript object notation),(Json) SIgnature Test
+k,(k:mathvariable;encryption signature integer variable k),(k)
+kaA,(ka:key agreement-a:distinguisher),(k a) (a)
+kaB,(ka:key agreement-b:distinguisher),(k a) (b)
+kemSize,(Kem:key encapsulation mechanism),(K e m) Size
+keyGen,(Gen:generator),key (Gen)
+kf,(kf:key factory),(k f)
+l,(l:mathvariable;weak public key variable l),(l)
+lang,(lang:language),(lang)
+lengthDiff,(diff:difference),length (diff)
+lengthR,(R:mathvariable;encryption signature integer variable r),length (R)
+lengthS,(S:mathvariable;encryption signature integer variable s),length (S)
+lhs,(lhs:left hand side),(l h s)
+lo,(lo:low),(lo)
+max,(max:maximum),(max)
+maxSigmas,(max:maximum),(max) Sigmas
+md,(md:message digest),(m d)
+mgf,(mgf:mask generation function),(mgf)
+mincount,(min:minimum),(min) count
+minPrivateKeyBits,(min:minimum),(min) private key bits
+mod,(mod:modulo),(mod)
+modifiedPub,(pub:public),modified (pub)
+modifiedPubSpec,(pub:public-spec:specification),modified (pub) (spec)
+modInverse,(mod:modulo),(mod) Inverse
+modPow,(mod:modulo-pow:powerof),(mod) (pow)
+n,(n:nonprime),(n)
+n,(n:mathvariable;order of generator g),(n)
+n,(n:mathvariable;order of generator g),(n)
+nonce,(nonce:number used only once),(nonce)
+numTests,(num:number),(num) Tests
+OPENJDK,(JDK:JavaSE Development Kit),OPEN (JDK)
+openjdk1024,(JDK:JavaSE Development Kit),OPEN (JDK) 1024
+OpenSSLProvider,(SSL:secure socket layer),open (SSL) Provider
+os,(os:output stream),(o s)
+outBuf,(out:output-Buf:buffer),(out) (Buf)
+p,(p:mathvariable;prime of finite field),(p)
+p,(p:mathvariable;prime of finite field),(p)
+p,(p:provider),(p)
+p1,(p:prime-1:distinguisher),(p)(1)
+param,(param:parameter),(param)
+params,(Params:parameters),(Params)
+phi,(phi:mathvariable;totient),(phi)
+PollardRhoSteps,(PollardRho:pollards rho algorithm),(PollardRho) Steps
+println,(ln:line),print (ln)
+priv,(priv:private),(priv)
+privCurve,(priv:private),(priv) Curve
+prod,(prod:product),(prod)
+pt,(pt:plain text),(p t)
+ptBuffer,(pt:plain text),(p t) Buffer
+ptHex,(pt:plain text-hex:hexadecimal),(p t) (hex)
+ptVector,(pt:plain text),(p t) Vector
+pub,(pub:public),(pub)
+pubCurve,(pub:public),(pub) Curve
+pubPoint,(Pub:public),(Pub) Point
+pubSpec,(pub:public-Spec:specification),(pub)(Spec)
+pubw,(pub:public-w:mathvariable;public point w),(pub) (w)
+pubx,(pub:public-x:mathvariable;affine x coordinate),(pub) (x)
+puby,(pub:public-y:mathvariable;affine y coordinate),(pub) (y)
+q,(q:mathvariable;order of the generator),(q)
+q1,(q:mathvariable;prime q-1:distinguisher),(q)(1)
+qHalf,(q:mathvariable;order of the generator),(q) Half
+qHalf,(q:mathvariable;order of the generator),(q) half
+r,(r:mathvariable;encryption signature integer ECDSA variable r),(r)
+r,(r:mathvariable;safe prime),(r)
+r2,(r:mathvariable;encryption signature integer ECDSA variable r-2:distinguisher),(r)(2)
+rand,(rand:random),(rand)
+resultPtLength,(Pt:plain text),result (P t) Length
+rhs,(rhs:right hand side),(r h s)
+rsa_key1,(rsa:rivest Shamir Adleman-1:distinguisher),(rsa) key (1)
+RsaEncryptionTest,(RSA:rivest Shamir Adleman),(RSA) Encryption Test
+rsaKeyLength,(RSA:rivest Shamir Adleman),(RSA) Key Length
+s,(s:mathvariable;encryption signature integer ECDSA variable s),(s)
+s,(s:mathvariable;private key),(s)
+SecretKeySpec,(Spec:specification),Secret Key (Spec)
+sig,(sig:signature),(sig)
+signum,(sigNum:signed number),(signum)
+sqrt,(sqrt:square root),(sqrt)
+startR,(R:mathvariable;encryption signature integer ECDSA variable r),start (R)
+startS,(S:mathvariable;encryption signature integer ECDSA variable s),start (S)
+t,(t:test),(t)
+t,(t:throwable),(t)
+tcid,(tc:test case-id:identifier),(t c) (id)
+testBiasSha1WithDSA,(Sha1:secure hash algorithm-DSA:digital signature algorithm),test Bias (Sha1) With (DSA)
+testDefaultTagSizeIvParameterSpec,(Iv:initialization vector-Spec:specification),test Default Tag Size (I v) Parameter (Spec)
+testDH,(dh:diffie hellman),test (DH)
+testDHDistinctParameters,(dh:diffie hellman),test (DH) Distinct Parameters
+testDsaBias,(DSA:digital signature algorithm),test (DSA) Bias
+testEax,(EAX:encrypt authenticate translate),test (EAX)
+testEcdsa,(Ec:elliptic curve-dsa:digital signature algorithm),test (ec)(dsa)
+testEciesBasic,(Ec:elliptic curve-ies:integrated encryption scheme),test (ec)(ies) Basic
+testEciesCorruptAesCbc,(Ec:elliptic curve-ies:integrated encryption scheme-aes:advanced encrpytion standard-cbc:cipher block chaining),test (ec) (ies) corrupt (aes) (cbc)
+testExceptionsPKCS1,(PKCS:public key cryptography standards),test Exceptions (PKCS) 1
+testGetExceptionsOAEP,(OAEP:Optimal Asymmetric Encryption Padding),test Get Exceptions (OAEP)
+testIvReuse,(Iv:initialization vector),test (Iv) Reuse
+testLateUpdateAAD,(aad:additional authenticated data),test late update (a a d)
+testNotEcb,(ecb:electronic code book),test not (ecb)
+testRsaSignatures,(RSA:rivest Shamir Adleman),test (RSA) Signatures
+TestUtil,(Util:utilities),Test (Util)
+testWrongOrderEcdhc,(ecdhc:elliptic curve diffie hellman cofactor),test wrong order (ecdhc)
+ThreadMXBean,(MX:managed extensions),Thread (M X) Bean
+tmp,(tmp:temporary),(tmp)
+u,(u:mathvariable;pollards rho algorithm variable u),(u)
+unusedQ,(Q:mathvariable;prime),unused (Q)
+updateAAD,(aad:additional authenticated data),update (A A D)
+v,(v:mathvariable;pollards rho algorithm variable v),(v)
+v,(v:vector),(v)
+w,(w:mathvariable;public point w),(w)
+weakspec,(spec:specification),weak (spec)
+x,(x:mathvariable;elliptic curve dsa private value),(x)
+X509EncodedKeySpec,(X509:X509 standard specification-Spec:specification),(X509) Encoded Key (Spec)
+x509keySpec,(x509:X509 standard specification-Spec:specification),(x509) key (Spec)
+xSqr,(x:mathvariable;affine field x-sqr:squared),(x) (sqr)
