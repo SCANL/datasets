@@ -10,4 +10,4 @@ On the generation, structure, and semantics of grammar patterns in source code i
 
 1. C. D. Newman, M. J. Decker, R. S. Alsuhaibani, A. Peruma, D. Kaushik and E. Hill, "An Empirical Study of Abbreviations and Expansions in Software Artifacts," 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), Cleveland, OH, USA, 2019, pp. 269-279, doi: 10.1109/ICSME.2019.00040.
 
-2. C. Newman, M. J. Decker, R. S. AlSuhaibani, A. Peruma, D. Kaushik and E. Hill, "An Open Dataset of Abbreviations and Expansions," 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), Cleveland, OH, USA, 2019, pp. 280-280, doi: 10.1109/ICSME.2019.00041.
+2. C. D. Newman, M. J. Decker, R. S. AlSuhaibani, A. Peruma, D. Kaushik and E. Hill, "An Open Dataset of Abbreviations and Expansions," 2019 IEEE International Conference on Software Maintenance and Evolution (ICSME), Cleveland, OH, USA, 2019, pp. 280-280, doi: 10.1109/ICSME.2019.00041.
