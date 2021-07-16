@@ -73,6 +73,9 @@ Flair and Stanford recognize a larger number of verb conjugations (e.g., VBZ, VB
 # Identifier Naming Structure Catalogue
 We have put together a catalogue of [identifier naming structures](https://github.com/SCANL/identifier_name_structure_catalogue) in source code. This catalogue explains a lot more about why this work is important, how we are using the ensemble tagger and why the tagset looks the way it does.
 
+# The actual tagger implementation
+You can find the tagger that was trained using this data here: https://github.com/SCANL/ensemble_tagger
+
 # Please cite the paper!
 
 1. C.  D.  Newman,  M.  J.  Decker,  R.  S.  AlSuhaibani,  A.  Peruma,  S.  Mohapatra,  T.  Vishoi, M. Zampieri, M. W. Mkaouer, T. J. Sheldon, and E. Hill, “An ensemble approach for annotating source code identifiers with part-of-speech tags,” Transactions  on  Software  Engineering, Accepted 2021.
