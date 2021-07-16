@@ -1,0 +1,978 @@
+IDENTIFIER,GRAMMAR_PATTERN,WORD,SWUM_TAG,POSSE_TAG,STANFORD_TAG,FLAIR_TAG,POSITION,MAXPOSITION,NORMALIZED_POSITION,CONTEXT,CORRECT_TAG,SYSTEM,IDENTIFIER_CODE,ID
+accelerometer Data,NM N,accelerometer,NM,N,N,N,0,2,0,5,NM,openFrameworks,0,1
+accelerometer Data,NM N,Data,N,N,N,NPL,1,2,2,5,N,openFrameworks,0,2
+actual,N,actual,N,N,N,NM,0,1,0,5,N,junit4,1,3
+actual Count,NM N,actual,NM,NM,NM,NM,0,2,0,1,NM,okhttp,2,4
+actual Count,NM N,Count,N,N,N,N,1,2,2,1,N,okhttp,2,5
+actual Suffix,NM N,actual,NM,NM,NM,NM,0,2,0,3,NM,junit4,3,6
+actual Suffix,NM N,Suffix,N,N,N,N,1,2,2,3,N,junit4,3,7
+Added Unicode Smp,NM NM N,Added,NM,N,N,VBD,0,3,0,1,NM,corenlp,4,8
+Added Unicode Smp,NM NM N,Unicode,NM,N,N,N,1,3,1,1,NM,corenlp,4,9
+Added Unicode Smp,NM NM N,Smp,N,N,N,N,2,3,2,1,N,corenlp,4,10
+all Open Files String,DT NM NM N,all,DT,V,DT,DT,0,4,0,4,DT,okhttp,5,11
+all Open Files String,DT NM NM N,Open,NM,N,N,NM,1,4,1,4,NM,okhttp,5,12
+all Open Files String,DT NM NM N,Files,NM,N,N,NPL,2,4,1,4,NM,okhttp,5,13
+all Open Files String,DT NM NM N,String,N,FAILURE,N,N,3,4,2,4,N,okhttp,5,14
+alt Name,NM N,alt,NM,N,N,DT,0,2,0,5,NM,okhttp,6,15
+alt Name,NM N,Name,N,N,N,N,1,2,2,5,N,okhttp,6,16
+ambient coefficient,NM N,ambient,NM,NM,NM,NM,0,2,0,5,NM,bullet3,7,17
+ambient coefficient,NM N,coefficient,N,N,N,NM,1,2,2,5,N,bullet3,7,18
+apply Margin Insets,V NM NPL,apply,V,V,VBP,V,0,3,0,4,V,corenlp,8,19
+apply Margin Insets,V NM NPL,Margin,NM,N,N,N,1,3,1,4,NM,corenlp,8,20
+apply Margin Insets,V NM NPL,Insets,N,N,NPL,NPL,2,3,2,4,NPL,corenlp,8,21
+Arabic Segmenter,NM N,Arabic,NM,NM,NM,NM,0,2,0,2,NM,corenlp,9,22
+Arabic Segmenter,NM N,Segmenter,N,N,N,N,1,2,2,2,N,corenlp,9,23
+array Class,NM N,array,NM,N,N,N,0,2,0,5,NM,junit4,10,24
+array Class,NM N,Class,N,N,N,N,1,2,2,5,N,junit4,10,25
+Assertion Failed Error,NM NM N,Assertion,NM,N,N,N,0,3,0,2,NM,junit4,11,26
+Assertion Failed Error,NM NM N,Failed,NM,N,VBD,VBN,1,3,1,2,NM,junit4,11,27
+Assertion Failed Error,NM NM N,Error,N,N,N,N,2,3,2,2,N,junit4,11,28
+assigns,NPL,assigns,N,V,VBZ,NPL,0,1,0,5,NPL,junit4,12,29
+Attribute,N,Attribute,N,N,N,V,0,1,0,2,N,openFrameworks,13,30
+avg Map,NM N,avg,NM,N,N,NM,0,2,0,3,NM,corenlp,14,31
+avg Map,NM N,Map,N,N,N,N,1,2,2,3,N,corenlp,14,32
+b Flip Horizontally,PRE V VM,b,NM,FAILURE,N,N,0,3,0,5,PRE,openFrameworks,15,33
+b Flip Horizontally,PRE V VM,Flip,NM,FAILURE,N,N,1,3,1,5,V,openFrameworks,15,34
+b Flip Horizontally,PRE V VM,Horizontally,N,FAILURE,VM,VM,2,3,2,5,VM,openFrameworks,15,35
+b Loop,PRE N,b,NM,N,N,N,0,2,0,1,PRE,corenlp,16,36
+b Loop,PRE N,Loop,N,N,N,N,1,2,2,1,N,corenlp,16,37
+b Multi Fullscreen,PRE NM N,b,NM,N,N,N,0,3,0,5,PRE,openFrameworks,17,38
+b Multi Fullscreen,PRE NM N,Multi,NM,N,N,N,1,3,1,5,NM,openFrameworks,17,39
+b Multi Fullscreen,PRE NM N,Fullscreen,N,N,N,N,2,3,2,5,N,openFrameworks,17,40
+b3 Push Profile Timing,PRE V NM N,b3,PRE,V,VBP,P,0,4,0,4,PRE,bullet3,18,41
+b3 Push Profile Timing,PRE V NM N,Push,D,N,N,N,1,4,1,4,V,bullet3,18,42
+b3 Push Profile Timing,PRE V NM N,Profile,V,N,N,N,2,4,1,4,NM,bullet3,18,43
+b3 Push Profile Timing,PRE V NM N,Timing,NM,FAILURE,N,N,3,4,2,4,N,bullet3,18,44
+backprop Training,NM N,backprop,NM,N,NM,N,0,2,0,5,NM,corenlp,19,45
+backprop Training,NM N,Training,N,N,N,N,1,2,2,5,N,corenlp,19,46
+base Category,NM N,base,NM,NM,V,N,0,2,0,3,NM,corenlp,20,47
+base Category,NM N,Category,N,N,N,N,1,2,2,3,N,corenlp,20,48
+base transform,NM N,base,NM,N,N,N,0,2,0,3,NM,bullet3,21,49
+base transform,NM N,transform,N,V,V,N,1,2,2,3,N,bullet3,21,50
+bean Configs,NM NPL,bean,NM,N,N,N,0,2,0,1,NM,okhttp,22,51
+bean Configs,NM NPL,Configs,N,N,NPL,N,1,2,2,1,NPL,okhttp,22,52
+best Node,NM N,best,NM,NM,VM,NM,0,2,0,3,NM,corenlp,23,53
+best Node,NM N,Node,N,N,N,N,1,2,2,3,N,corenlp,23,54
+Binary Rule,NM N,Binary,NM,NM,NM,N,0,2,0,2,NM,corenlp,24,55
+Binary Rule,NM N,Rule,N,N,N,N,1,2,2,2,N,corenlp,24,56
+Bitmap Data Size,NM NM N,Bitmap,NM,N,N,N,0,3,0,1,NM,junit4,25,57
+Bitmap Data Size,NM NM N,Data,NM,N,N,NPL,1,3,1,1,NM,junit4,25,58
+Bitmap Data Size,NM NM N,Size,N,N,N,N,2,3,2,1,N,junit4,25,59
+bm log,NM N,bm,NM,N,N,N,0,2,0,1,NM,junit4,26,60
+bm log,NM N,log,N,N,N,N,1,2,2,1,N,junit4,26,61
+breakpoint,N,breakpoint,N,N,N,N,0,1,0,1,N,corenlp,27,62
+bt Collision Shape,PRE NM N,bt,NM,N,P,P,0,3,0,2,PRE,bullet3,28,63
+bt Collision Shape,PRE NM N,Collision,NM,N,N,N,1,3,1,2,NM,bullet3,28,64
+bt Collision Shape,PRE NM N,Shape,N,N,VBG,N,2,3,2,2,N,bullet3,28,65
+bt Deformable Contact Constraint,PRE NM NM N,bt,NM,N,P,P,0,4,0,2,PRE,bullet3,29,66
+bt Deformable Contact Constraint,PRE NM NM N,Deformable,NM,NM,NM,NM,1,4,1,2,NM,bullet3,29,67
+bt Deformable Contact Constraint,PRE NM NM N,Contact,NM,N,N,N,2,4,1,2,NM,bullet3,29,68
+bt Deformable Contact Constraint,PRE NM NM N,Constraint,N,N,N,N,3,4,2,2,N,bullet3,29,69
+bt Material,PRE N,bt,NM,N,P,P,0,2,0,2,PRE,bullet3,30,70
+bt Material,PRE N,Material,N,N,N,N,1,2,2,2,N,bullet3,30,71
+build minimized FA,V NM N,build,V,V,VBP,V,0,3,0,4,V,corenlp,31,72
+build minimized FA,V NM N,minimized,NM,NM,VBN,VBN,1,3,1,4,NM,corenlp,31,73
+build minimized FA,V NM N,FA,N,N,N,N,2,3,2,4,N,corenlp,31,74
+build sentence from tokens,V N P NPL,build,V,V,VBP,V,0,4,0,4,V,corenlp,32,75
+build sentence from tokens,V N P NPL,sentence,N,N,N,N,1,4,1,4,N,corenlp,32,76
+build sentence from tokens,V N P NPL,from,P,P,P,P,2,4,1,4,P,corenlp,32,77
+build sentence from tokens,V N P NPL,tokens,N,N,NPL,NPL,3,4,2,4,NPL,corenlp,32,78
+C At Background Color,PRE NM NM N,C,NM,FAILURE,N,N,0,4,0,2,PRE,openFrameworks,33,79
+C At Background Color,PRE NM NM N,At,NM,FAILURE,P,P,1,4,1,2,NM,openFrameworks,33,80
+C At Background Color,PRE NM NM N,Background,NM,FAILURE,N,N,2,4,1,2,NM,openFrameworks,33,81
+C At Background Color,PRE NM NM N,Color,N,FAILURE,N,N,3,4,2,2,N,openFrameworks,33,82
+C At Font,PRE NM N,C,NM,FAILURE,N,N,0,3,0,2,PRE,openFrameworks,34,83
+C At Font,PRE NM N,At,NM,FAILURE,P,P,1,3,1,2,NM,openFrameworks,34,84
+C At Font,PRE NM N,Font,N,FAILURE,N,N,2,3,2,2,N,openFrameworks,34,85
+C At Grayscale,PRE NM N,C,NM,FAILURE,N,N,0,3,0,2,PRE,openFrameworks,35,86
+C At Grayscale,PRE NM N,At,NM,FAILURE,P,P,1,3,1,2,NM,openFrameworks,35,87
+C At Grayscale,PRE NM N,Grayscale,N,FAILURE,N,N,2,3,2,2,N,openFrameworks,35,88
+cache Body Unbuffered,NM N NM,cache,NM,N,N,N,0,3,0,3,NM,okhttp,36,89
+cache Body Unbuffered,NM N NM,Body,NM,N,N,N,1,3,1,3,N,okhttp,36,90
+cache Body Unbuffered,NM N NM,Unbuffered,N,N,N,VBN,2,3,2,3,NM,okhttp,36,91
+Cache Control,NM N,Cache,NM,N,N,N,0,2,0,2,NM,okhttp,37,92
+Cache Control,NM N,Control,N,N,N,N,1,2,2,2,N,okhttp,37,93
+Cache Strategy,NM N,Cache,NM,N,N,N,0,2,0,2,NM,okhttp,38,94
+Cache Strategy,NM N,Strategy,N,N,N,N,1,2,2,2,N,okhttp,38,95
+call Id,NM N,call,NM,N,V,V,0,2,0,5,NM,okhttp,39,96
+call Id,NM N,Id,N,N,N,N,1,2,2,5,N,okhttp,39,97
+cam Rot Z,NM NM N,cam,NM,N,V,N,0,3,0,3,NM,bullet3,40,98
+cam Rot Z,NM NM N,Rot,NM,N,N,N,1,3,1,3,NM,bullet3,40,99
+cam Rot Z,NM NM N,Z,N,N,N,N,2,3,2,3,N,bullet3,40,100
+Category Filter Factory,NM NM N,Category,NM,N,N,N,0,3,0,2,NM,junit4,41,101
+Category Filter Factory,NM NM N,Filter,NM,N,N,N,1,3,1,2,NM,junit4,41,102
+Category Filter Factory,NM NM N,Factory,N,N,N,N,2,3,2,2,N,junit4,41,103
+cause Matcher,NM N,cause,NM,N,V,P,0,2,0,5,NM,junit4,42,104
+cause Matcher,NM N,Matcher,N,N,N,N,1,2,2,5,N,junit4,42,105
+certificate pinner,NM N,certificate,NM,N,N,N,0,2,0,2,NM,okhttp,43,106
+certificate pinner,NM N,pinner,N,N,N,N,1,2,2,2,N,okhttp,43,107
+check permission,V N,check,V,V,VBP,V,0,2,0,4,V,junit4,44,108
+check permission,V N,permission,N,N,N,N,1,2,2,4,N,junit4,44,109
+check T,V N,check,V,V,VBP,V,0,2,0,4,V,junit4,45,110
+check T,V N,T,N,N,N,N,1,2,2,4,N,junit4,45,111
+child Categories,NM NPL,child,NM,N,N,N,0,2,0,3,NM,junit4,46,112
+child Categories,NM NPL,Categories,N,N,NPL,NPL,1,2,2,3,NPL,junit4,46,113
+child joint,NM N,child,NM,N,N,N,0,2,0,5,NM,bullet3,47,114
+child joint,NM N,joint,N,N,N,N,1,2,2,5,N,bullet3,47,115
+child Statement,NM N,child,NM,N,N,N,0,2,0,5,NM,junit4,48,116
+child Statement,NM N,Statement,N,N,N,N,1,2,2,5,N,junit4,48,117
+Chinese Treebank Parser Params,NM NM NM NPL,Chinese,NM,NM,N,N,0,4,0,2,NM,corenlp,49,118
+Chinese Treebank Parser Params,NM NM NM NPL,Treebank,NM,N,N,N,1,4,1,2,NM,corenlp,49,119
+Chinese Treebank Parser Params,NM NM NM NPL,Parser,NM,N,N,N,2,4,1,2,NM,corenlp,49,120
+Chinese Treebank Parser Params,NM NM NM NPL,Params,N,N,N,N,3,4,2,2,NPL,corenlp,49,121
+Cipher Suite,NM N,Cipher,NM,N,N,N,0,2,0,2,NM,okhttp,50,122
+Cipher Suite,NM N,Suite,N,N,N,N,1,2,2,2,N,okhttp,50,123
+circle Mesh,NM N,circle,NM,N,N,N,0,2,0,1,NM,openFrameworks,51,124
+circle Mesh,NM N,Mesh,N,N,N,N,1,2,2,1,N,openFrameworks,51,125
+client Certificates,NM NPL,client,NM,N,N,N,0,2,0,3,NM,okhttp,52,126
+client Certificates,NM NPL,Certificates,N,N,NPL,NPL,1,2,2,3,NPL,okhttp,52,127
+client Number,NM N,client,NM,N,N,N,0,2,0,1,NM,openFrameworks,53,128
+client Number,NM N,Number,N,N,N,N,1,2,2,1,N,openFrameworks,53,129
+Clock,N,Clock,N,N,N,N,0,1,0,2,N,openFrameworks,54,130
+cmd Str,NM N,cmd,NM,N,N,N,0,2,0,5,NM,corenlp,55,131
+cmd Str,NM N,Str,N,N,N,N,1,2,2,5,N,corenlp,55,132
+code Exception Message,NM NM N,code,NM,N,N,N,0,3,0,3,NM,okhttp,56,133
+code Exception Message,NM NM N,Exception,NM,N,N,N,1,3,1,3,NM,okhttp,56,134
+code Exception Message,NM NM N,Message,N,N,N,N,2,3,2,3,N,okhttp,56,135
+col Length Left,NM NM N,col,NM,N,N,N,0,3,0,3,NM,bullet3,57,136
+col Length Left,NM NM N,Length,NM,N,N,N,1,3,1,3,NM,bullet3,57,137
+col Length Left,NM NM N,Left,N,N,VBN,N,2,3,2,3,N,bullet3,57,138
+cone translation,NM N,cone,NM,N,N,N,0,2,0,3,NM,openFrameworks,58,139
+cone translation,NM N,translation,N,N,N,N,1,2,2,3,N,openFrameworks,58,140
+Configure Timeouts,NM NPL,Configure,NM,N,N,N,0,2,0,2,NM,okhttp,59,141
+Configure Timeouts,NM NPL,Timeouts,N,N,N,NPL,1,2,2,2,NPL,okhttp,59,142
+content Type String,NM NM N,content,NM,NM,N,N,0,3,0,5,NM,okhttp,60,143
+content Type String,NM NM N,Type,NM,N,N,N,1,3,1,5,NM,okhttp,60,144
+content Type String,NM NM N,String,N,N,N,N,2,3,2,5,N,okhttp,60,145
+contours,NPL,contours,N,V,NPL,NPL,0,1,0,1,NPL,openFrameworks,61,146
+convert bullet to grpc command,V N DT NM N,convert,V,V,VBP,V,0,5,0,4,V,bullet3,62,147
+convert bullet to grpc command,V N DT NM N,bullet,N,N,N,N,1,5,1,4,N,bullet3,62,148
+convert bullet to grpc command,V N DT NM N,to,P,P,P,P,2,5,1,4,DT,bullet3,62,149
+convert bullet to grpc command,V N DT NM N,grpc,NM,N,NM,N,3,5,1,4,NM,bullet3,62,150
+convert bullet to grpc command,V N DT NM N,command,N,N,N,N,4,5,2,4,N,bullet3,62,151
+convex Shapes,NM NPL,convex,NM,NM,N,N,0,2,0,5,NM,bullet3,63,152
+convex Shapes,NM NPL,Shapes,N,N,N,NPL,1,2,2,5,NPL,bullet3,63,153
+cookie,N,cookie,N,N,N,N,0,1,0,2,N,okhttp,64,154
+core,N,core,N,N,N,N,0,1,0,1,N,okhttp,65,155
+credentials,NPL,credentials,N,N,NPL,NPL,0,1,0,2,NPL,okhttp,66,156
+creds,NPL,creds,N,N,NPL,NPL,0,1,0,1,NPL,bullet3,67,157
+CRF Non Linear Log Conditional Objective Function,NM NM NM NM NM NM N,CRF,NM,FAILURE,N,N,0,7,0,2,NM,corenlp,68,158
+CRF Non Linear Log Conditional Objective Function,NM NM NM NM NM NM N,Non,NM,FAILURE,N,N,1,7,1,2,NM,corenlp,68,159
+CRF Non Linear Log Conditional Objective Function,NM NM NM NM NM NM N,Linear,NM,FAILURE,N,N,2,7,1,2,NM,corenlp,68,160
+CRF Non Linear Log Conditional Objective Function,NM NM NM NM NM NM N,Log,NM,FAILURE,N,N,3,7,1,2,NM,corenlp,68,161
+CRF Non Linear Log Conditional Objective Function,NM NM NM NM NM NM N,Conditional,NM,FAILURE,N,NM,4,7,1,2,NM,corenlp,68,162
+CRF Non Linear Log Conditional Objective Function,NM NM NM NM NM NM N,Objective,NM,FAILURE,N,N,5,7,1,2,NM,corenlp,68,163
+CRF Non Linear Log Conditional Objective Function,NM NM NM NM NM NM N,Function,N,FAILURE,N,N,6,7,2,2,N,corenlp,68,164
+curr Thread Exception,NM NM N,curr,NM,N,N,N,0,3,0,3,NM,junit4,69,165
+curr Thread Exception,NM NM N,Thread,NM,N,N,N,1,3,1,3,NM,junit4,69,166
+curr Thread Exception,NM NM N,Exception,N,N,N,N,2,3,2,3,N,junit4,69,167
+data Buf,NM N,data,NM,N,N,NPL,0,2,0,3,NM,openFrameworks,70,168
+data Buf,NM N,Buf,N,N,N,N,1,2,2,3,N,openFrameworks,70,169
+data Point Method,NM NM N,data,NM,N,NPL,N,0,3,0,5,NM,junit4,71,170
+data Point Method,NM NM N,Point,NM,N,N,N,1,3,1,5,NM,junit4,71,171
+data Point Method,NM NM N,Method,N,N,N,N,2,3,2,5,N,junit4,71,172
+default open,NM N,default,NM,V,N,N,0,2,0,5,NM,bullet3,72,173
+default open,NM N,open,N,N,NM,NM,1,2,2,5,N,bullet3,72,174
+delay agnostic enabled,NM N V,delay,NM,N,N,N,0,3,0,1,NM,bullet3,73,175
+delay agnostic enabled,NM N V,agnostic,NM,N,NM,NM,1,3,1,1,N,bullet3,73,176
+delay agnostic enabled,NM N V,enabled,N,V,VBD,VBN,2,3,2,1,V,bullet3,73,177
+dep H,NM N,dep,NM,N,V,N,0,2,0,5,NM,corenlp,74,178
+dep H,NM N,H,N,N,N,N,1,2,2,5,N,corenlp,74,179
+depth cb,NM N,depth,NM,N,N,N,0,2,0,1,NM,okhttp,75,180
+depth cb,NM N,cb,N,N,N,N,1,2,2,1,N,okhttp,75,181
+depth Stencil As Texture,NM N P N,depth,NM,FAILURE,N,N,0,4,0,1,NM,openFrameworks,76,182
+depth Stencil As Texture,NM N P N,Stencil,NM,FAILURE,N,N,1,4,1,1,N,openFrameworks,76,183
+depth Stencil As Texture,NM N P N,As,NM,FAILURE,P,P,2,4,1,1,P,openFrameworks,76,184
+depth Stencil As Texture,NM N P N,Texture,N,FAILURE,N,N,3,4,2,1,N,openFrameworks,76,185
+describe Mismatch Safely,V N NM,describe,V,FAILURE,VBP,V,0,3,0,4,V,junit4,77,186
+describe Mismatch Safely,V N NM,Mismatch,NM,FAILURE,N,N,1,3,1,4,N,junit4,77,187
+describe Mismatch Safely,V N NM,Safely,N,FAILURE,N,VM,2,3,2,4,NM,junit4,77,188
+diff fd,NM N,diff,NM,N,N,N,0,2,0,2,NM,bullet3,78,189
+diff fd,NM N,fd,N,N,N,N,1,2,2,2,N,bullet3,78,190
+Disk Lru Cache,NM NM N,Disk,NM,N,N,N,0,3,0,2,NM,okhttp,79,191
+Disk Lru Cache,NM NM N,Lru,NM,N,N,N,1,3,1,2,NM,okhttp,79,192
+Disk Lru Cache,NM NM N,Cache,N,N,N,N,2,3,2,2,N,okhttp,79,193
+do Install Status,V NM N,do,V,V,VBP,VBP,0,3,0,4,V,bullet3,80,194
+do Install Status,V NM N,Install,V,N,N,V,1,3,1,4,NM,bullet3,80,195
+do Install Status,V NM N,Status,N,N,N,N,2,3,2,4,N,bullet3,80,196
+Dynamic Textured Cube Demo,NM NM NM N,Dynamic,NM,NM,N,N,0,4,0,2,NM,bullet3,81,197
+Dynamic Textured Cube Demo,NM NM NM N,Textured,NM,NM,N,N,1,4,1,2,NM,bullet3,81,198
+Dynamic Textured Cube Demo,NM NM NM N,Cube,NM,N,N,N,2,4,1,2,NM,bullet3,81,199
+Dynamic Textured Cube Demo,NM NM NM N,Demo,N,N,N,N,3,4,2,2,N,bullet3,81,200
+edit count,NM N,edit,NM,N,V,V,0,2,0,1,NM,junit4,82,201
+edit count,NM N,count,N,N,N,N,1,2,2,1,N,junit4,82,202
+EGLEW ANDROID frame buffer target,PRE PRE NM NM N,EGLEW,NM,N,NM,N,0,5,0,1,PRE,junit4,83,203
+EGLEW ANDROID frame buffer target,PRE PRE NM NM N,ANDROID,NM,N,N,N,1,5,1,1,PRE,junit4,83,204
+EGLEW ANDROID frame buffer target,PRE PRE NM NM N,frame,NM,N,N,N,2,5,1,1,NM,junit4,83,205
+EGLEW ANDROID frame buffer target,PRE PRE NM NM N,buffer,NM,N,N,N,3,5,1,1,NM,junit4,83,206
+EGLEW ANDROID frame buffer target,PRE PRE NM NM N,target,N,N,N,N,4,5,2,1,N,junit4,83,207
+eglew Create Platform Window Surface,PRE V NM NM N,eglew,NM,N,NPL,N,0,5,0,1,PRE,openFrameworks,84,208
+eglew Create Platform Window Surface,PRE V NM NM N,Create,NM,N,VBP,V,1,5,1,1,V,openFrameworks,84,209
+eglew Create Platform Window Surface,PRE V NM NM N,Platform,NM,N,N,N,2,5,1,1,NM,openFrameworks,84,210
+eglew Create Platform Window Surface,PRE V NM NM N,Window,NM,N,N,N,3,5,1,1,NM,openFrameworks,84,211
+eglew Create Platform Window Surface,PRE V NM NM N,Surface,N,N,N,N,4,5,2,1,N,openFrameworks,84,212
+enable Materials,V NPL,enable,V,V,VBP,V,0,2,0,4,V,okhttp,85,213
+enable Materials,V NPL,Materials,N,N,NPL,NPL,1,2,2,4,NPL,okhttp,85,214
+encoded Path Segments,NM NM NPL,encoded,NM,N,VBN,VBN,0,3,0,1,NM,okhttp,86,215
+encoded Path Segments,NM NM NPL,Path,NM,N,N,N,1,3,1,1,NM,okhttp,86,216
+encoded Path Segments,NM NM NPL,Segments,N,N,NPL,NPL,2,3,2,1,NPL,okhttp,86,217
+encoded Values,NM NPL,encoded,NM,N,VBN,VBN,0,2,0,5,NM,okhttp,87,218
+encoded Values,NM NPL,Values,N,N,NPL,NPL,1,2,2,5,NPL,okhttp,87,219
+enum Count,NM N,enum,NM,N,N,N,0,2,0,3,NM,junit4,88,220
+enum Count,NM N,Count,N,N,N,N,1,2,2,3,N,junit4,88,221
+equals Offset,NM N,equals,NM,N,VBZ,VBZ,0,2,0,3,NM,okhttp,89,222
+equals Offset,NM N,Offset,N,N,N,N,1,2,2,3,N,okhttp,89,223
+exception Channels,NM NPL,exception,NM,N,N,N,0,2,0,1,NM,openFrameworks,90,224
+exception Channels,NM NPL,Channels,N,N,NPL,NPL,1,2,2,1,NPL,openFrameworks,90,225
+expand Headers From Request,V NPL P N,expand,V,V,VBP,V,0,4,0,4,V,corenlp,91,226
+expand Headers From Request,V NPL P N,Headers,N,N,NPL,NPL,1,4,1,4,NPL,corenlp,91,227
+expand Headers From Request,V NPL P N,From,P,P,P,P,2,4,1,4,P,corenlp,91,228
+expand Headers From Request,V NPL P N,Request,N,N,N,N,3,4,2,4,N,corenlp,91,229
+Expected Exception,NM N,Expected,NM,NM,N,VBN,0,2,0,2,NM,junit4,92,230
+Expected Exception,NM N,Exception,N,N,N,N,1,2,2,2,N,junit4,92,231
+expected String,NM N,expected,NM,NM,VBN,VBN,0,2,0,3,NM,junit4,93,232
+expected String,NM N,String,N,N,N,N,1,2,2,3,N,junit4,93,233
+f context length,NM NM N,f,NM,N,N,N,0,3,0,1,NM,junit4,94,234
+f context length,NM NM N,context,NM,N,N,N,1,3,1,1,NM,junit4,94,235
+f context length,NM NM N,length,N,N,N,N,2,3,2,1,N,junit4,94,236
+f Ptr Out,PRE NM N,f,NM,FAILURE,N,N,0,3,0,3,PRE,openFrameworks,95,237
+f Ptr Out,PRE NM N,Ptr,NM,FAILURE,N,N,1,3,1,3,NM,openFrameworks,95,238
+f Ptr Out,PRE NM N,Out,N,FAILURE,VM,VM,2,3,2,3,N,openFrameworks,95,239
+factory Class,NM N,factory,NM,N,N,N,0,2,0,3,NM,junit4,96,240
+factory Class,NM N,Class,N,N,N,N,1,2,2,3,N,junit4,96,241
+failed Assumptions With Message,V NPL P N,failed,V,FAILURE,VBD,VBN,0,4,0,4,V,junit4,97,242
+failed Assumptions With Message,V NPL P N,Assumptions,N,FAILURE,NPL,NPL,1,4,1,4,NPL,junit4,97,243
+failed Assumptions With Message,V NPL P N,With,P,FAILURE,P,P,2,4,1,4,P,junit4,97,244
+failed Assumptions With Message,V NPL P N,Message,N,FAILURE,N,N,3,4,2,4,N,junit4,97,245
+file Channel,NM N,file,NM,N,V,N,0,2,0,5,NM,okhttp,98,246
+file Channel,NM N,Channel,N,N,N,N,1,2,2,5,N,okhttp,98,247
+File Operator,NM N,File,NM,N,V,N,0,2,0,2,NM,okhttp,99,248
+File Operator,NM N,Operator,N,N,N,N,1,2,2,2,N,okhttp,99,249
+filter Spec,NM N,filter,NM,N,N,N,0,2,0,3,NM,junit4,100,250
+filter Spec,NM N,Spec,N,N,N,N,1,2,2,3,N,junit4,100,251
+find syntactic head,V NM N,find,V,V,VBP,V,0,3,0,4,V,corenlp,101,252
+find syntactic head,V NM N,syntactic,NM,NM,NM,NM,1,3,1,4,NM,corenlp,101,253
+find syntactic head,V NM N,head,N,N,N,N,2,3,2,4,N,corenlp,101,254
+Firmata I2C Data,NM NM NPL,Firmata,NM,N,N,N,0,3,0,2,NM,openFrameworks,102,255
+Firmata I2C Data,NM NM NPL,I2C,NM,N,N,N,1,3,1,2,NM,openFrameworks,102,256
+Firmata I2C Data,NM NM NPL,Data,N,N,NPL,N,2,3,2,2,NPL,openFrameworks,102,257
+first Space,NM N,first,NM,NM,VM,NM,0,2,0,3,NM,okhttp,103,258
+first Space,NM N,Space,N,N,N,N,1,2,2,3,N,okhttp,103,259
+flag,N,flag,N,N,N,N,0,1,0,1,N,bullet3,104,260
+flags Classifier Pair,NM NM N,flags,NM,N,NPL,NPL,0,3,0,5,NM,corenlp,105,261
+flags Classifier Pair,NM NM N,Classifier,NM,N,N,N,1,3,1,5,NM,corenlp,105,262
+flags Classifier Pair,NM NM N,Pair,N,N,N,N,2,3,2,5,N,corenlp,105,263
+folder Names,NM NPL,folder,NM,N,N,N,0,2,0,5,NM,openFrameworks,106,264
+folder Names,NM NPL,Names,N,N,NPL,NPL,1,2,2,5,NPL,openFrameworks,106,265
+follow Component,V N,follow,V,V,VBP,V,0,2,0,4,V,corenlp,107,266
+follow Component,V N,Component,N,N,N,N,1,2,2,4,N,corenlp,107,267
+followUp,N,followUp,N,N,N,N,0,1,0,3,N,okhttp,108,268
+force network,NM N,force,NM,N,N,N,0,2,0,1,NM,okhttp,109,269
+force network,NM N,network,N,N,N,N,1,2,2,1,N,okhttp,109,270
+free Positions,NM NPL,free,NM,NM,NM,NM,0,2,0,3,NM,corenlp,110,271
+free Positions,NM NPL,Positions,N,N,NPL,NPL,1,2,2,3,NPL,corenlp,110,272
+free texture,NM N,free,NM,NM,NM,NM,0,2,0,1,NM,bullet3,111,273
+free texture,NM N,texture,N,N,N,N,1,2,2,1,N,bullet3,111,274
+from Local Aabb Min,P NM NM N,from,NM,P,P,P,0,4,0,3,P,bullet3,112,275
+from Local Aabb Min,P NM NM N,Local,NM,NM,N,N,1,4,1,3,NM,bullet3,112,276
+from Local Aabb Min,P NM NM N,Aabb,NM,N,N,N,2,4,1,3,NM,bullet3,112,277
+from Local Aabb Min,P NM NM N,Min,N,N,N,N,3,4,2,3,N,bullet3,112,278
+Geometry Interface,NM N,Geometry,NM,N,N,N,0,2,0,2,NM,bullet3,113,279
+Geometry Interface,NM N,Interface,N,N,N,N,1,2,2,2,N,bullet3,113,280
+get children,V NPL,get,V,V,VBP,V,0,2,0,4,V,openFrameworks,114,281
+get children,V NPL,children,N,N,NPL,NPL,1,2,2,4,NPL,openFrameworks,114,282
+get Controller Transform,V NM N,get,V,V,VBP,V,0,3,0,4,V,corenlp,115,283
+get Controller Transform,V NM N,Controller,NM,N,N,N,1,3,1,4,NM,corenlp,115,284
+get Controller Transform,V NM N,Transform,N,N,N,V,2,3,2,4,N,corenlp,115,285
+get Declared Methods,V NM NPL,get,V,V,VBP,V,0,3,0,4,V,junit4,116,286
+get Declared Methods,V NM NPL,Declared,NM,NM,NM,VBN,1,3,1,4,NM,junit4,116,287
+get Declared Methods,V NM NPL,Methods,N,N,NPL,NPL,2,3,2,4,NPL,junit4,116,288
+get Diffuse Colour,V NM N,get,V,V,VBP,V,0,3,0,4,V,junit4,117,289
+get Diffuse Colour,V NM N,Diffuse,NM,NM,N,N,1,3,1,4,NM,junit4,117,290
+get Diffuse Colour,V NM N,Colour,N,N,N,N,2,3,2,4,N,junit4,117,291
+get down sampling rate,V NM NM N,get,V,V,VBP,V,0,4,0,4,V,corenlp,118,292
+get down sampling rate,V NM NM N,down,NM,P,N,VM,1,4,1,4,NM,corenlp,118,293
+get down sampling rate,V NM NM N,sampling,NM,N,N,N,2,4,1,4,NM,corenlp,118,294
+get down sampling rate,V NM NM N,rate,N,N,N,N,3,4,2,4,N,corenlp,118,295
+get Id For Name,V N P N,get,V,V,VBP,V,0,4,0,4,V,junit4,119,296
+get Id For Name,V N P N,Id,N,N,N,N,1,4,1,4,N,junit4,119,297
+get Id For Name,V N P N,For,P,P,P,P,2,4,1,4,P,junit4,119,298
+get Id For Name,V N P N,Name,N,N,N,N,3,4,2,4,N,junit4,119,299
+get Initial Window Size,V NM NM N,get,V,V,VBP,V,0,4,0,4,V,bullet3,120,300
+get Initial Window Size,V NM NM N,Initial,NM,NM,NM,N,1,4,1,4,NM,bullet3,120,301
+get Initial Window Size,V NM NM N,Window,NM,N,N,N,2,4,1,4,NM,bullet3,120,302
+get Initial Window Size,V NM NM N,Size,N,N,N,N,3,4,2,4,N,bullet3,120,303
+get Jf,V N,get,V,V,VBP,V,0,2,0,4,V,bullet3,121,304
+get Jf,V N,Jf,N,N,N,N,1,2,2,4,N,bullet3,121,305
+get label,V N,get,V,V,VBP,V,0,2,0,4,V,corenlp,122,306
+get label,V N,label,N,N,N,N,1,2,2,4,N,corenlp,122,307
+Get Longitude,V N,Get,V,V,VBP,V,0,2,0,4,V,okhttp,123,308
+Get Longitude,V N,Longitude,N,N,N,N,1,2,2,4,N,okhttp,123,309
+get Max Shingle Diff,V NM NM N,get,V,V,VBP,V,0,4,0,4,V,openFrameworks,124,310
+get Max Shingle Diff,V NM NM N,Max,NM,N,N,N,1,4,1,4,NM,openFrameworks,124,311
+get Max Shingle Diff,V NM NM N,Shingle,NM,N,N,N,2,4,1,4,NM,openFrameworks,124,312
+get Max Shingle Diff,V NM NM N,Diff,N,N,N,N,3,4,2,4,N,openFrameworks,124,313
+get Message,V N,get,V,V,VBP,V,0,2,0,4,V,junit4,125,314
+get Message,V N,Message,N,N,N,N,1,2,2,4,N,junit4,125,315
+get Number Of Transitions,V N P NPL,get,V,V,VBP,V,0,4,0,4,V,okhttp,126,316
+get Number Of Transitions,V N P NPL,Number,N,N,N,N,1,4,1,4,N,okhttp,126,317
+get Number Of Transitions,V N P NPL,Of,P,P,P,P,2,4,1,4,P,okhttp,126,318
+get Number Of Transitions,V N P NPL,Transitions,N,N,NPL,NPL,3,4,2,4,NPL,okhttp,126,319
+get PID No Exceptions,V N DT NPL,get,V,V,VBP,V,0,4,0,4,V,openFrameworks,127,320
+get PID No Exceptions,V N DT NPL,PID,NM,N,N,N,1,4,1,4,N,openFrameworks,127,321
+get PID No Exceptions,V N DT NPL,No,DT,NM,N,DT,2,4,1,4,DT,openFrameworks,127,322
+get PID No Exceptions,V N DT NPL,Exceptions,N,N,NPL,NPL,3,4,2,4,NPL,openFrameworks,127,323
+get Protocol Method,NM NM N,get,NM,N,V,V,0,3,0,5,NM,okhttp,128,324
+get Protocol Method,NM NM N,Protocol,NM,N,N,N,1,3,1,5,NM,okhttp,128,325
+get Protocol Method,NM NM N,Method,N,N,N,N,2,3,2,5,N,okhttp,128,326
+get Raw Arguments,V NM NPL,get,V,V,VBP,V,0,3,0,4,V,openFrameworks,129,327
+get Raw Arguments,V NM NPL,Raw,NM,NM,N,N,1,3,1,4,NM,openFrameworks,129,328
+get Raw Arguments,V NM NPL,Arguments,N,N,NPL,NPL,2,3,2,4,NPL,openFrameworks,129,329
+GET SOURCE NAME,NM NM N,GET,NM,N,V,V,0,3,0,1,NM,corenlp,130,330
+GET SOURCE NAME,NM NM N,SOURCE,NM,N,N,N,1,3,1,1,NM,corenlp,130,331
+GET SOURCE NAME,NM NM N,NAME,N,N,N,N,2,3,2,1,N,corenlp,130,332
+get start states,V NM NPL,get,V,V,VBP,V,0,3,0,4,V,corenlp,131,333
+get start states,V NM NPL,start,NM,N,N,N,1,3,1,4,NM,corenlp,131,334
+get start states,V NM NPL,states,N,N,NPL,NPL,2,3,2,4,NPL,corenlp,131,335
+global Scope,NM N,global,NM,NM,NM,NM,0,2,0,4,NM,junit4,132,336
+global Scope,NM N,Scope,N,N,N,N,1,2,2,4,N,junit4,132,337
+glyph ID,NM N,glyph,NM,N,V,NM,0,2,0,3,NM,bullet3,133,338
+glyph ID,NM N,ID,N,N,N,N,1,2,2,3,N,bullet3,133,339
+H pack,NM N,H,NM,N,N,N,0,2,0,2,NM,okhttp,134,340
+H pack,NM N,pack,N,N,N,N,1,2,2,2,N,okhttp,134,341
+H Wnd,N NM,H,NM,N,N,N,0,2,0,1,N,corenlp,135,342
+H Wnd,N NM,Wnd,N,N,N,N,1,2,2,1,NM,corenlp,135,343
+headers,NPL,headers,N,N,NPL,NPL,0,1,0,5,NPL,okhttp,136,344
+Http1 Exchange Codec,NM NM N,Http1,NM,N,N,N,0,3,0,2,NM,okhttp,137,345
+Http1 Exchange Codec,NM NM N,Exchange,NM,N,N,N,1,3,1,2,NM,okhttp,137,346
+Http1 Exchange Codec,NM NM N,Codec,NM,N,N,N,2,3,2,2,N,okhttp,137,347
+http2 Error Code,NM NM N,http2,NM,N,N,D,0,3,0,5,NM,okhttp,138,348
+http2 Error Code,NM NM N,Error,NM,N,N,N,1,3,1,5,NM,okhttp,138,349
+http2 Error Code,NM NM N,Code,NM,N,N,N,2,3,2,5,N,okhttp,138,350
+i ar e,NM NM N,i,NM,NM,N,PR,0,3,0,5,NM,junit4,139,351
+i ar e,NM NM N,ar,NM,N,N,VBP,1,3,1,5,NM,junit4,139,352
+i ar e,NM NM N,e,N,N,N,N,2,3,2,5,N,junit4,139,353
+ID LUMNINANCE MIN,NM NM N,ID,NM,N,N,N,0,3,0,1,NM,openFrameworks,140,354
+ID LUMNINANCE MIN,NM NM N,LUMNINANCE,NM,N,N,N,1,3,1,1,NM,openFrameworks,140,355
+ID LUMNINANCE MIN,NM NM N,MIN,N,N,N,N,2,3,2,1,N,openFrameworks,140,356
+id Mention,N NM,id,NM,N,P,N,0,2,0,3,N,corenlp,141,357
+id Mention,N NM,Mention,N,N,N,N,1,2,2,3,NM,corenlp,141,358
+image,N,image,N,N,N,N,0,1,0,3,N,openFrameworks,142,359
+img Type,NM N,img,NM,N,N,N,0,2,0,3,NM,openFrameworks,143,360
+img Type,NM N,Type,N,N,N,N,1,2,2,3,N,openFrameworks,143,361
+in,N,in,N,FAILURE,P,P,0,1,0,5,N,bullet3,144,362
+in buffer,NM N,in,NM,P,P,P,0,2,0,5,NM,openFrameworks,145,363
+in buffer,NM N,buffer,N,N,N,N,1,2,2,5,N,openFrameworks,145,364
+in Order Wrapped Verification Mode,P N NM NM N,in,NM,P,P,P,0,5,0,1,P,bullet3,146,365
+in Order Wrapped Verification Mode,P N NM NM N,Order,NM,N,N,N,1,5,1,1,N,bullet3,146,366
+in Order Wrapped Verification Mode,P N NM NM N,Wrapped,NM,NM,N,VBN,2,5,1,1,NM,bullet3,146,367
+in Order Wrapped Verification Mode,P N NM NM N,Verification,NM,N,N,N,3,5,1,1,NM,bullet3,146,368
+in Order Wrapped Verification Mode,P N NM NM N,Mode,N,N,N,N,4,5,2,1,N,bullet3,146,369
+inbound,NM,inbound,N,NM,NM,VM,0,1,0,5,NM,okhttp,147,370
+includes New,NM NM,includes,NM,V,VBZ,VBZ,0,2,0,3,NM,openFrameworks,148,371
+includes New,NM NM,New,N,NM,N,N,1,2,2,3,NM,openFrameworks,148,372
+inertial Frame,NM N,inertial,NM,NM,NM,NM,0,2,0,3,NM,bullet3,149,373
+inertial Frame,NM N,Frame,N,N,N,N,1,2,2,3,N,bullet3,149,374
+inet Socket Address,NM NM N,inet,NM,N,V,N,0,3,0,1,NM,corenlp,150,375
+inet Socket Address,NM NM N,Socket,NM,N,N,N,1,3,1,1,NM,corenlp,150,376
+inet Socket Address,NM NM N,Address,N,N,N,N,2,3,2,1,N,corenlp,150,377
+initial delay milliseconds,NM NM NPL,initial,NM,NM,NM,NM,0,3,0,5,NM,openFrameworks,151,378
+initial delay milliseconds,NM NM NPL,delay,NM,N,N,N,1,3,1,5,NM,openFrameworks,151,379
+initial delay milliseconds,NM NM NPL,milliseconds,N,N,NPL,NPL,2,3,2,5,NPL,openFrameworks,151,380
+int Hex String,NM NM N,int,NM,N,V,V,0,3,0,5,NM,openFrameworks,152,381
+int Hex String,NM NM N,Hex,NM,NM,N,N,1,3,1,5,NM,openFrameworks,152,382
+int Hex String,NM NM N,String,N,N,N,N,2,3,2,5,N,openFrameworks,152,383
+Internal,NM,Internal,N,NM,N,NM,0,1,0,2,NM,okhttp,153,384
+INVALID,NM,INVALID,N,N,NM,NM,0,1,0,1,NM,bullet3,154,385
+Inverse Dynamics Example,NM NM N,Inverse,NM,NM,N,N,0,3,0,2,NM,bullet3,155,386
+Inverse Dynamics Example,NM NM N,Dynamics,NM,N,N,NPL,1,3,1,2,NM,bullet3,155,387
+Inverse Dynamics Example,NM NM N,Example,N,N,N,N,2,3,2,2,N,bullet3,155,388
+IS FIRST CAPITAL,V NM N,IS,NM,N,VBZ,VBZ,0,3,0,1,V,junit4,156,389
+IS FIRST CAPITAL,V NM N,FIRST,NM,NM,N,NM,1,3,1,1,NM,junit4,156,390
+IS FIRST CAPITAL,V NM N,CAPITAL,N,N,N,N,2,3,2,1,N,junit4,156,391
+is Node A Left Child Leaf,V N DT NM NM N,is,NM,FAILURE,VBZ,VBZ,0,6,0,3,V,bullet3,157,392
+is Node A Left Child Leaf,V N DT NM NM N,Node,NM,FAILURE,N,N,1,6,1,3,N,bullet3,157,393
+is Node A Left Child Leaf,V N DT NM NM N,A,NM,FAILURE,N,N,2,6,1,3,DT,bullet3,157,394
+is Node A Left Child Leaf,V N DT NM NM N,Left,NM,FAILURE,VBD,N,3,6,1,3,NM,bullet3,157,395
+is Node A Left Child Leaf,V N DT NM NM N,Child,NM,FAILURE,N,N,4,6,1,3,NM,bullet3,157,396
+is Node A Left Child Leaf,V N DT NM NM N,Leaf,N,FAILURE,N,N,5,6,2,3,N,bullet3,157,397
+Is Return Bridged,V N NM,Is,NM,V,VBZ,VBZ,0,3,0,1,V,corenlp,158,398
+Is Return Bridged,V N NM,Return,NM,N,N,N,1,3,1,1,N,corenlp,158,399
+Is Return Bridged,V N NM,Bridged,N,V,N,VBN,2,3,2,1,NM,corenlp,158,400
+JFlex Dummy Lexer,PRE NM N,JFlex,NM,N,N,N,0,3,0,2,PRE,corenlp,159,401
+JFlex Dummy Lexer,PRE NM N,Dummy,NM,NM,N,N,1,3,1,2,NM,corenlp,159,402
+JFlex Dummy Lexer,PRE NM N,Lexer,N,N,N,N,2,3,2,2,N,corenlp,159,403
+keep Aspect,V N,keep,NM,V,V,V,0,2,0,1,V,corenlp,160,404
+keep Aspect,V N,Aspect,N,N,N,N,1,2,2,1,N,corenlp,160,405
+key Begin,NM N,key,NM,NM,NM,NM,0,2,0,3,NM,okhttp,161,406
+key Begin,NM N,Begin,N,N,N,N,1,2,2,3,N,okhttp,161,407
+key Events Copy,NM NM N,key,NM,NM,NM,NM,0,3,0,3,NM,openFrameworks,162,408
+key Events Copy,NM NM N,Events,NM,N,NPL,NPL,1,3,1,3,NM,openFrameworks,162,409
+key Events Copy,NM NM N,Copy,N,N,VBP,N,2,3,2,3,N,openFrameworks,162,410
+key with newline not permitted,N P N VM V,key,NM,V,VBP,N,0,5,0,4,N,okhttp,163,411
+key with newline not permitted,N P N VM V,with,NM,P,P,P,1,5,1,4,P,okhttp,163,412
+key with newline not permitted,N P N VM V,newline,NM,N,N,N,2,5,1,4,N,okhttp,163,413
+key with newline not permitted,N P N VM V,not,DT,N,VM,VM,3,5,1,4,VM,okhttp,163,414
+key with newline not permitted,N P N VM V,permitted,P,N,VBN,VBN,4,5,2,4,V,okhttp,163,415
+kinects Copy,NM N,kinects,NM,N,NPL,NPL,0,2,0,3,NM,openFrameworks,164,416
+kinects Copy,NM N,Copy,N,N,VBP,N,1,2,2,3,N,openFrameworks,164,417
+label Regex,NM N,label,NM,N,V,N,0,2,0,1,NM,junit4,165,418
+label Regex,NM N,Regex,N,N,N,N,1,2,2,1,N,junit4,165,419
+labels File,NM N,labels,NM,N,VBZ,NPL,0,2,0,5,NM,corenlp,166,420
+labels File,NM N,File,N,N,N,N,1,2,2,5,N,corenlp,166,421
+last Gradient,NM N,last,DT,V,NM,NM,0,2,0,4,NM,corenlp,167,422
+last Gradient,NM N,Gradient,N,N,N,N,1,2,2,4,N,corenlp,167,423
+LATENCY ARG,NM N,LATENCY,NM,N,N,N,0,2,0,1,NM,junit4,168,424
+LATENCY ARG,NM N,ARG,N,N,N,N,1,2,2,1,N,junit4,168,425
+learned Lop Expert Weights 2 D,NM NM NM NPL D N,learned,NM,NM,VBD,VBN,0,6,0,5,NM,corenlp,169,426
+learned Lop Expert Weights 2 D,NM NM NM NPL D N,Lop,NM,N,N,N,1,6,1,5,NM,corenlp,169,427
+learned Lop Expert Weights 2 D,NM NM NM NPL D N,Expert,NM,NM,N,N,2,6,1,5,NM,corenlp,169,428
+learned Lop Expert Weights 2 D,NM NM NM NPL D N,Weights,NM,N,N,NPL,3,6,1,5,NPL,corenlp,169,429
+learned Lop Expert Weights 2 D,NM NM NM NPL D N,2,NM,NM,D,D,4,6,1,5,D,corenlp,169,430
+learned Lop Expert Weights 2 D,NM NM NM NPL D N,D,N,N,N,N,5,6,2,5,N,corenlp,169,431
+left Sisters Buffer,NM NM N,left,NM,NM,VBN,VBD,0,3,0,3,NM,corenlp,170,432
+left Sisters Buffer,NM NM N,Sisters,NM,N,NPL,N,1,3,1,3,NM,corenlp,170,433
+left Sisters Buffer,NM NM N,Buffer,N,N,N,N,2,3,2,3,N,corenlp,170,434
+len r,NM N,len,NM,N,N,N,0,2,0,5,NM,bullet3,171,435
+len r,NM N,r,N,N,N,N,1,2,2,5,N,bullet3,171,436
+Less Dummy Gui Helper,NM NM NM N,Less,DT,NM,VM,NM,0,4,0,2,NM,bullet3,172,437
+Less Dummy Gui Helper,NM NM NM N,Dummy,NM,NM,N,N,1,4,1,2,NM,bullet3,172,438
+Less Dummy Gui Helper,NM NM NM N,Gui,NM,N,N,N,2,4,1,2,NM,bullet3,172,439
+Less Dummy Gui Helper,NM NM NM N,Helper,N,N,N,N,3,4,2,2,N,bullet3,172,440
+LOGGER,N,LOGGER,N,N,N,N,0,1,0,1,N,openFrameworks,173,441
+m angle,PRE N,m,NM,NM,N,N,0,2,0,1,PRE,bullet3,174,442
+m angle,PRE N,angle,N,N,N,N,1,2,2,1,N,bullet3,174,443
+m contact Motion 1,PRE NM N D,m,NM,NM,N,N,0,4,0,1,PRE,okhttp,175,444
+m contact Motion 1,PRE NM N D,contact,NM,N,N,V,1,4,1,1,NM,okhttp,175,445
+m contact Motion 1,PRE NM N D,Motion,NM,N,N,N,2,4,1,1,N,okhttp,175,446
+m contact Motion 1,PRE NM N D,1,N,N,D,D,3,4,2,1,D,okhttp,175,447
+m FBO Height,PRE NM N,m,NM,NM,N,N,0,3,0,1,PRE,junit4,176,448
+m FBO Height,PRE NM N,FBO,NM,N,N,N,1,3,1,1,NM,junit4,176,449
+m FBO Height,PRE NM N,Height,N,N,N,N,2,3,2,1,N,junit4,176,450
+m is indx present,PRE V NM N,m,NM,V,N,N,0,4,0,1,PRE,junit4,177,451
+m is indx present,PRE V NM N,is,NM,N,VBZ,VBZ,1,4,1,1,V,junit4,177,452
+m is indx present,PRE V NM N,indx,NM,N,VM,N,2,4,1,1,NM,junit4,177,453
+m is indx present,PRE V NM N,present,N,FAILURE,NM,NM,3,4,2,1,N,junit4,177,454
+m Line Dash Offset,PRE NM NM N,m,NM,NM,N,N,0,4,0,1,PRE,corenlp,178,455
+m Line Dash Offset,PRE NM NM N,Line,NM,N,N,N,1,4,1,1,NM,corenlp,178,456
+m Line Dash Offset,PRE NM NM N,Dash,NM,N,N,N,2,4,1,1,NM,corenlp,178,457
+m Line Dash Offset,PRE NM NM N,Offset,N,N,N,N,3,4,2,1,N,corenlp,178,458
+m origin,PRE N,m,NM,NM,N,N,0,2,0,3,PRE,bullet3,179,459
+m origin,PRE N,origin,N,N,FAILURE,N,1,2,2,3,N,bullet3,179,460
+m Preview Started,PRE N NM,m,NM,NM,N,N,0,3,0,1,PRE,bullet3,180,461
+m Preview Started,PRE N NM,Preview,NM,N,N,N,1,3,1,1,N,bullet3,180,462
+m Preview Started,PRE N NM,Started,N,V,VBD,VBD,2,3,2,1,NM,bullet3,180,463
+m Sky Box Orientation,PRE NM NM N,m,NM,NM,N,N,0,4,0,1,PRE,openFrameworks,181,464
+m Sky Box Orientation,PRE NM NM N,Sky,NM,N,N,N,1,4,1,1,NM,openFrameworks,181,465
+m Sky Box Orientation,PRE NM NM N,Box,NM,N,N,N,2,4,1,1,NM,openFrameworks,181,466
+m Sky Box Orientation,PRE NM NM N,Orientation,N,N,N,N,3,4,2,1,N,openFrameworks,181,467
+m transform Change Args,PRE NM NM NPL,m,NM,NM,N,N,0,4,0,1,PRE,okhttp,182,468
+m transform Change Args,PRE NM NM NPL,transform,NM,N,V,V,1,4,1,1,NM,okhttp,182,469
+m transform Change Args,PRE NM NM NPL,Change,NM,N,N,N,2,4,1,1,NM,okhttp,182,470
+m transform Change Args,PRE NM NM NPL,Args,N,N,N,N,3,4,2,1,NPL,okhttp,182,471
+make extractor,V N,make,V,V,VBP,V,0,2,0,4,V,corenlp,183,472
+make extractor,V N,extractor,N,N,N,N,1,2,2,4,N,corenlp,183,473
+map json adapter,V NM N,map,NM,N,N,N,0,3,0,1,V,okhttp,184,474
+map json adapter,V NM N,json,NM,N,N,N,1,3,1,1,NM,okhttp,184,475
+map json adapter,V NM N,adapter,N,N,N,N,2,3,2,1,N,okhttp,184,476
+Maps,NPL,Maps,N,N,NPL,NPL,0,1,0,2,NPL,corenlp,185,477
+max Age Seconds Long,NM NM NPL NM,max,NM,N,V,N,0,4,0,3,NM,okhttp,186,478
+max Age Seconds Long,NM NM NPL NM,Age,NM,N,N,N,1,4,1,3,NM,okhttp,186,479
+max Age Seconds Long,NM NM NPL NM,Seconds,NM,N,N,NPL,2,4,1,3,NPL,okhttp,186,480
+max Age Seconds Long,NM NM NPL NM,Long,N,NM,N,VM,3,4,2,3,NM,okhttp,186,481
+Max Core,NM N,Max,NM,N,N,N,0,2,0,2,NM,junit4,187,482
+Max Core,NM N,Core,N,N,N,N,1,2,2,2,N,junit4,187,483
+max File Open,NM N NM,max,NM,N,V,N,0,3,0,1,NM,okhttp,188,484
+max File Open,NM N NM,File,NM,N,N,N,1,3,1,1,N,okhttp,188,485
+max File Open,NM N NM,Open,N,N,N,N,2,3,2,1,NM,okhttp,188,486
+max Intermediate Cas,NM NM NPL,max,NM,N,V,N,0,3,0,5,NM,okhttp,189,487
+max Intermediate Cas,NM NM NPL,Intermediate,NM,NM,N,N,1,3,1,5,NM,okhttp,189,488
+max Intermediate Cas,NM NM NPL,Cas,N,N,N,N,2,3,2,5,NPL,okhttp,189,489
+max Num Pixels,NM NM NPL,max,NM,N,N,N,0,3,0,3,NM,bullet3,190,490
+max Num Pixels,NM NM NPL,Num,NM,N,N,N,1,3,1,3,NM,bullet3,190,491
+max Num Pixels,NM NM NPL,Pixels,N,N,NPL,NPL,2,3,2,3,NPL,bullet3,190,492
+max Requests Per Host,NM NPL P N,max,NM,N,N,N,0,4,0,5,NM,okhttp,191,493
+max Requests Per Host,NM NPL P N,Requests,NM,N,NPL,NPL,1,4,1,5,NPL,okhttp,191,494
+max Requests Per Host,NM NPL P N,Per,NM,N,P,P,2,4,1,5,P,okhttp,191,495
+max Requests Per Host,NM NPL P N,Host,N,N,N,N,3,4,2,5,N,okhttp,191,496
+Mention Detection Evaluator,NM NM N,Mention,NM,N,N,N,0,3,0,2,NM,corenlp,192,497
+Mention Detection Evaluator,NM NM N,Detection,NM,N,N,N,1,3,1,2,NM,corenlp,192,498
+Mention Detection Evaluator,NM NM N,Evaluator,N,N,N,N,2,3,2,2,N,corenlp,192,499
+mesh scale,NM N,mesh,NM,N,V,N,0,2,0,5,NM,bullet3,193,500
+mesh scale,NM N,scale,N,N,N,N,1,2,2,5,N,bullet3,193,501
+message,N,message,N,N,N,N,0,1,0,5,N,okhttp,194,502
+method Name Prefixes,NM NM NPL,method,NM,N,N,N,0,3,0,5,NM,junit4,195,503
+method Name Prefixes,NM NM NPL,Name,NM,N,N,N,1,3,1,5,NM,junit4,195,504
+method Name Prefixes,NM NM NPL,Prefixes,N,N,NPL,VBZ,2,3,2,5,NPL,junit4,195,505
+Method Sorter,NM N,Method,NM,N,N,N,0,2,0,2,NM,junit4,196,506
+Method Sorter,NM N,Sorter,N,N,N,N,1,2,2,2,N,junit4,196,507
+min Fresh,NM N,min,NM,N,N,N,0,2,0,5,NM,okhttp,197,508
+min Fresh,NM N,Fresh,N,NM,NM,N,1,2,2,5,N,okhttp,197,509
+min Fresh Seconds,NM NM NPL,min,NM,N,N,N,0,3,0,5,NM,okhttp,198,510
+min Fresh Seconds,NM NM NPL,Fresh,NM,NM,NM,N,1,3,1,5,NM,okhttp,198,511
+min Fresh Seconds,NM NM NPL,Seconds,N,N,NPL,NPL,2,3,2,5,NPL,okhttp,198,512
+minimized Random FA,NM NM N,minimized,NM,NM,VBN,VBN,0,3,0,3,NM,corenlp,199,513
+minimized Random FA,NM NM N,Random,NM,NM,N,N,1,3,1,3,NM,corenlp,199,514
+minimized Random FA,NM NM N,FA,N,N,N,N,2,3,2,3,N,corenlp,199,515
+move RBT surgeon,NM NM N,move,NM,N,V,V,0,3,0,1,NM,corenlp,200,516
+move RBT surgeon,NM NM N,RBT,NM,N,N,N,1,3,1,1,NM,corenlp,200,517
+move RBT surgeon,NM NM N,surgeon,N,N,N,N,2,3,2,1,N,corenlp,200,518
+movie Media Handler,NM NM N,movie,NM,N,N,N,0,3,0,3,NM,openFrameworks,201,519
+movie Media Handler,NM NM N,Media,NM,N,N,N,1,3,1,3,NM,openFrameworks,201,520
+movie Media Handler,NM NM N,Handler,N,N,N,N,2,3,2,3,N,openFrameworks,201,521
+mpg123 read file,PRE NM N,mpg123,V,V,VBP,D,0,3,0,4,PRE,openFrameworks,202,522
+mpg123 read file,PRE NM N,read,D,N,N,VBD,1,3,1,4,NM,openFrameworks,202,523
+mpg123 read file,PRE NM N,file,NM,FAILURE,N,N,2,3,2,4,N,openFrameworks,202,524
+mt,N,mt,N,N,N,N,0,1,0,3,N,bullet3,203,525
+multipart body,NM N,multipart,NM,N,NM,NM,0,2,0,2,NM,okhttp,204,526
+multipart body,NM N,body,N,N,N,N,1,2,2,2,N,okhttp,204,527
+Multiple Failure Exception,NM NM N,Multiple,NM,NM,NM,NM,0,3,0,2,NM,junit4,205,528
+Multiple Failure Exception,NM NM N,Failure,NM,N,N,N,1,3,1,2,NM,junit4,205,529
+Multiple Failure Exception,NM NM N,Exception,N,N,N,N,2,3,2,2,N,junit4,205,530
+multiply in front,V P N,multiply,V,V,VBP,V,0,3,0,4,V,corenlp,206,531
+multiply in front,V P N,in,P,P,P,P,1,3,1,4,P,corenlp,206,532
+multiply in front,V P N,front,N,N,N,N,2,3,2,4,N,corenlp,206,533
+mx Bean,NM N,mx,NM,N,P,N,0,2,0,3,NM,junit4,207,534
+mx Bean,NM N,Bean,N,N,N,N,1,2,2,3,N,junit4,207,535
+n Shininess,NM N,n,NM,N,N,DT,0,2,0,5,NM,openFrameworks,208,536
+n Shininess,NM N,Shininess,N,N,N,N,1,2,2,5,N,openFrameworks,208,537
+nav visible,N V,nav,NM,N,N,N,0,2,0,1,N,bullet3,209,538
+nav visible,N V,visible,N,NM,NM,NM,1,2,2,1,V,bullet3,209,539
+network Security Policy,NM NM N,network,NM,N,N,N,0,3,0,3,NM,okhttp,210,540
+network Security Policy,NM NM N,Security,NM,N,N,N,1,3,1,3,NM,okhttp,210,541
+network Security Policy,NM NM N,Policy,N,N,N,N,2,3,2,3,N,okhttp,210,542
+new Files,NM NPL,new,NM,NM,NM,NM,0,2,0,5,NM,corenlp,211,543
+new Files,NM NPL,Files,N,N,NPL,NPL,1,2,2,5,NPL,corenlp,211,544
+notify Touch Down,V NM N,notify,V,V,VBP,V,0,3,0,4,V,bullet3,212,545
+notify Touch Down,V NM N,Touch,V,N,N,N,1,3,1,4,NM,bullet3,212,546
+notify Touch Down,V NM N,Down,N,P,N,N,2,3,2,4,N,bullet3,212,547
+nullable Class,NM N,nullable,NM,NM,NM,NM,0,2,0,5,NM,junit4,213,548
+nullable Class,NM N,Class,N,N,N,N,1,2,2,5,N,junit4,213,549
+nulls Ok,NPL NM,nulls,NM,N,NPL,NPL,0,2,0,4,NPL,openFrameworks,214,550
+nulls Ok,NPL NM,Ok,N,NM,VBP,N,1,2,2,4,NM,openFrameworks,214,551
+num Active Contexts,NM NM NPL,num,NM,N,N,N,0,3,0,5,NM,bullet3,215,552
+num Active Contexts,NM NM NPL,Active,NM,NM,NM,NM,1,3,1,5,NM,bullet3,215,553
+num Active Contexts,NM NM NPL,Contexts,N,N,NPL,NPL,2,3,2,5,NPL,bullet3,215,554
+num axis events,NM NM NPL,num,NM,N,N,N,0,3,0,1,NM,openFrameworks,216,555
+num axis events,NM NM NPL,axis,NM,N,N,NPL,1,3,1,1,NM,openFrameworks,216,556
+num axis events,NM NM NPL,events,N,N,NPL,NPL,2,3,2,1,NPL,openFrameworks,216,557
+num cols,NM NPL,num,NM,N,N,N,0,2,0,1,NM,okhttp,217,558
+num cols,NM NPL,cols,N,N,NPL,NPL,1,2,2,1,NPL,okhttp,217,559
+num Files,NM NPL,num,NM,N,N,N,0,2,0,5,NM,openFrameworks,218,560
+num Files,NM NPL,Files,N,N,NPL,NPL,1,2,2,5,NPL,openFrameworks,218,561
+num Keys,NM NPL,num,NM,N,V,N,0,2,0,5,NM,corenlp,219,562
+num Keys,NM NPL,Keys,N,N,N,NPL,1,2,2,5,NPL,corenlp,219,563
+num light,NM N,num,NM,N,N,N,0,2,0,1,NM,okhttp,220,564
+num light,NM N,light,N,N,N,N,1,2,2,1,N,okhttp,220,565
+num States,NM NPL,num,NM,N,V,N,0,2,0,3,NM,corenlp,221,566
+num States,NM NPL,States,N,N,N,N,1,2,2,3,NPL,corenlp,221,567
+num Verts In A,NM NPL P N,num,NM,FAILURE,N,N,0,4,0,3,NM,bullet3,222,568
+num Verts In A,NM NPL P N,Verts,NM,FAILURE,NPL,NPL,1,4,1,3,NPL,bullet3,222,569
+num Verts In A,NM NPL P N,In,NM,FAILURE,P,P,2,4,1,3,P,bullet3,222,570
+num Verts In A,NM NPL P N,A,N,FAILURE,N,DT,3,4,2,3,N,bullet3,222,571
+number Elementary Vegas,NM NM NPL,number,NM,N,N,N,0,3,0,1,NM,bullet3,223,572
+number Elementary Vegas,NM NM NPL,Elementary,NM,NM,N,N,1,3,1,1,NM,bullet3,223,573
+number Elementary Vegas,NM NM NPL,Vegas,N,N,N,N,2,3,2,1,NPL,bullet3,223,574
+OAuth Session,NM N,OAuth,NM,N,N,N,0,2,0,2,NM,okhttp,224,575
+OAuth Session,NM N,Session,NM,N,N,N,1,2,2,2,N,okhttp,224,576
+OAuth Session Factory,NM NM N,OAuth,NM,N,N,N,0,3,0,2,NM,okhttp,225,577
+OAuth Session Factory,NM NM N,Session,NM,N,N,N,1,3,1,2,NM,okhttp,225,578
+OAuth Session Factory,NM NM N,Factory,NM,N,N,N,2,3,2,2,N,okhttp,225,579
+OF Android Life Cycle Helper,PRE NM NM NM N,OF,NM,P,P,P,0,5,0,2,PRE,openFrameworks,226,580
+OF Android Life Cycle Helper,PRE NM NM NM N,Android,NM,N,N,N,1,5,1,2,NM,openFrameworks,226,581
+OF Android Life Cycle Helper,PRE NM NM NM N,Life,NM,N,N,N,2,5,1,2,NM,openFrameworks,226,582
+OF Android Life Cycle Helper,PRE NM NM NM N,Cycle,NM,N,N,N,3,5,1,2,NM,openFrameworks,226,583
+OF Android Life Cycle Helper,PRE NM NM NM N,Helper,N,N,N,N,4,5,2,2,N,openFrameworks,226,584
+OF Android Object,PRE NM N,OF,NM,P,P,P,0,3,0,2,PRE,openFrameworks,227,585
+OF Android Object,PRE NM N,Android,NM,N,N,N,1,3,1,2,NM,openFrameworks,227,586
+OF Android Object,PRE NM N,Object,N,N,N,N,2,3,2,2,N,openFrameworks,227,587
+OF Android Sound Player,PRE NM NM N,OF,NM,P,P,P,0,4,0,2,PRE,openFrameworks,228,588
+OF Android Sound Player,PRE NM NM N,Android,NM,N,N,N,1,4,1,2,NM,openFrameworks,228,589
+OF Android Sound Player,PRE NM NM N,Sound,NM,NM,N,N,2,4,1,2,NM,openFrameworks,228,590
+OF Android Sound Player,PRE NM NM N,Player,N,N,N,N,3,4,2,2,N,openFrameworks,228,591
+OF Android Window,PRE NM N,OF,NM,P,P,P,0,3,0,2,PRE,openFrameworks,229,592
+OF Android Window,PRE NM N,Android,NM,N,N,N,1,3,1,2,NM,openFrameworks,229,593
+OF Android Window,PRE NM N,Window,N,N,N,N,2,3,2,2,N,openFrameworks,229,594
+OF Orientation Listener,PRE NM N,OF,NM,P,P,P,0,3,0,2,PRE,openFrameworks,230,595
+OF Orientation Listener,PRE NM N,Orientation,NM,N,N,N,1,3,1,2,NM,openFrameworks,230,596
+OF Orientation Listener,PRE NM N,Listener,N,N,N,N,2,3,2,2,N,openFrameworks,230,597
+one Document,NM N,one,NM,NM,D,D,0,2,0,3,NM,corenlp,231,598
+one Document,NM N,Document,N,N,N,N,1,2,2,3,N,corenlp,231,599
+OP CODE CONTINUATION,NM NM N,OP,NM,N,N,N,0,3,0,1,NM,openFrameworks,232,600
+OP CODE CONTINUATION,NM NM N,CODE,NM,N,N,N,1,3,1,1,NM,openFrameworks,232,601
+OP CODE CONTINUATION,NM NM N,CONTINUATION,N,N,N,N,2,3,2,1,N,openFrameworks,232,602
+open Class Tags,NM NM NPL,open,NM,NM,NM,NM,0,3,0,3,NM,corenlp,233,603
+open Class Tags,NM NM NPL,Class,NM,N,N,N,1,3,1,3,NM,corenlp,233,604
+open Class Tags,NM NM NPL,Tags,N,N,N,NPL,2,3,2,3,NPL,corenlp,233,605
+optimize Identity Cast Composition,V NM NM N,optimize,V,V,VBP,V,0,4,0,4,V,okhttp,234,606
+optimize Identity Cast Composition,V NM NM N,Identity,NM,N,N,N,1,4,1,4,NM,okhttp,234,607
+optimize Identity Cast Composition,V NM NM N,Cast,NM,N,VBD,N,2,4,1,4,NM,okhttp,234,608
+optimize Identity Cast Composition,V NM NM N,Composition,N,N,N,N,3,4,2,4,N,okhttp,234,609
+order With,V P,order,NM,V,V,N,0,2,0,3,V,junit4,235,610
+order With,V P,With,N,P,N,P,1,2,2,3,P,junit4,235,611
+ori W,NM N,ori,NM,N,N,N,0,2,0,3,NM,bullet3,236,612
+ori W,NM N,W,N,N,N,N,1,2,2,3,N,bullet3,236,613
+original Mocking Details,NM NM NPL,original,NM,NM,NM,NM,0,3,0,1,NM,okhttp,237,614
+original Mocking Details,NM NM NPL,Mocking,NM,NM,N,N,1,3,1,1,NM,okhttp,237,615
+original Mocking Details,NM NM NPL,Details,N,N,N,N,2,3,2,1,NPL,okhttp,237,616
+out table,NM N,out,NM,P,P,VM,0,2,0,5,NM,bullet3,238,617
+out table,NM N,table,N,N,N,N,1,2,2,5,N,bullet3,238,618
+outer Rule,NM N,outer,NM,NM,NM,NM,0,2,0,5,NM,junit4,239,619
+outer Rule,NM N,Rule,N,N,N,N,1,2,2,5,N,junit4,239,620
+p global info 32,PRE NM N D,p,NM,N,N,N,0,4,0,5,PRE,bullet3,240,621
+p global info 32,PRE NM N D,global,NM,NM,NM,NM,1,4,1,5,NM,bullet3,240,622
+p global info 32,PRE NM N D,info,NM,N,N,N,2,4,1,5,N,bullet3,240,623
+p global info 32,PRE NM N D,32,N,NM,D,D,3,4,2,5,D,bullet3,240,624
+palette size,NM N,palette,NM,N,N,N,0,2,0,5,NM,bullet3,241,625
+palette size,NM N,size,N,N,N,N,1,2,2,5,N,bullet3,241,626
+Parallel Computer,NM N,Parallel,NM,NM,NM,N,0,2,0,2,NM,junit4,242,627
+Parallel Computer,NM N,Computer,N,N,N,N,1,2,2,2,N,junit4,242,628
+parameter Assignment,NM N,parameter,NM,N,N,N,0,2,0,5,NM,junit4,243,629
+parameter Assignment,NM N,Assignment,N,N,N,N,1,2,2,5,N,junit4,243,630
+Parameter Signature,NM N,Parameter,NM,N,N,N,0,2,0,2,NM,junit4,244,631
+Parameter Signature,NM N,Signature,N,N,N,N,1,2,2,2,N,junit4,244,632
+PARENT,N,PARENT,N,N,N,N,0,1,0,1,N,openFrameworks,245,633
+parse Expires,V NPL,parse,V,V,VBP,N,0,2,0,4,V,bullet3,246,634
+parse Expires,V NPL,Expires,N,N,NPL,VBZ,1,2,2,4,NPL,bullet3,246,635
+passphrase,N,passphrase,N,N,N,N,0,1,0,3,N,openFrameworks,247,636
+path With Native Separators,N P NM NPL,path,NM,FAILURE,N,N,0,4,0,4,N,corenlp,248,637
+path With Native Separators,N P NM NPL,With,NM,FAILURE,P,P,1,4,1,4,P,corenlp,248,638
+path With Native Separators,N P NM NPL,Native,NM,FAILURE,NM,NM,2,4,1,4,NM,corenlp,248,639
+path With Native Separators,N P NM NPL,Separators,N,FAILURE,NPL,NPL,3,4,2,4,NPL,corenlp,248,640
+Patterns Annotations,NM NPL,Patterns,NM,N,N,NPL,0,2,0,2,NM,corenlp,249,641
+Patterns Annotations,NM NPL,Annotations,N,N,NPL,NPL,1,2,2,2,NPL,corenlp,249,642
+Physics Client Example,NM NM N,Physics,NM,N,N,N,0,3,0,2,NM,bullet3,250,643
+Physics Client Example,NM NM N,Client,NM,N,N,N,1,3,1,2,NM,bullet3,250,644
+Physics Client Example,NM NM N,Example,N,N,N,N,2,3,2,2,N,bullet3,250,645
+pickup,N,pickup,N,N,N,N,0,1,0,1,N,openFrameworks,251,646
+planes,NPL,planes,N,N,NPL,NPL,0,1,0,5,NPL,bullet3,252,647
+platform String,NM N,platform,NM,N,N,N,0,2,0,3,NM,openFrameworks,253,648
+platform String,NM N,String,N,N,N,N,1,2,2,3,N,openFrameworks,253,649
+png read IDAT data,NM V NM N,png,PRE,V,VM,N,0,4,0,4,NM,openFrameworks,254,650
+png read IDAT data,NM V NM N,read,V,N,VBD,VBD,1,4,1,4,V,openFrameworks,254,651
+png read IDAT data,NM V NM N,IDAT,NM,N,N,N,2,4,1,4,NM,openFrameworks,254,652
+png read IDAT data,NM V NM N,data,N,FAILURE,NPL,NPL,3,4,2,4,N,openFrameworks,254,653
+Post File,NM N,Post,NM,N,N,N,0,2,0,2,NM,okhttp,255,654
+Post File,NM N,File,N,N,N,N,1,2,2,2,N,okhttp,255,655
+pre Map,P N,pre,NM,N,NM,P,0,2,0,5,P,corenlp,256,656
+pre Map,P N,Map,N,N,N,N,1,2,2,5,N,corenlp,256,657
+present Scaling,NM N,present,NM,NM,NM,NM,0,2,0,3,NM,openFrameworks,257,658
+present Scaling,NM N,Scaling,N,N,N,N,1,2,2,3,N,openFrameworks,257,659
+previous Stream Id,NM NM N,previous,NM,NM,NM,NM,0,3,0,3,NM,okhttp,258,660
+previous Stream Id,NM NM N,Stream,NM,N,N,N,1,3,1,3,NM,okhttp,258,661
+previous Stream Id,NM NM N,Id,N,N,N,N,2,3,2,3,N,okhttp,258,662
+Print Events,NM NPL,Print,NM,N,V,N,0,2,0,2,NM,okhttp,259,663
+Print Events,NM NPL,Events,N,N,NPL,NPL,1,2,2,2,NPL,okhttp,259,664
+promises,NPL,promises,N,N,NPL,NPL,0,1,0,5,NPL,okhttp,260,665
+pronoun,N,pronoun,N,N,N,N,0,1,0,5,N,corenlp,261,666
+push Reset Later,V N VM,push,V,V,VBP,V,0,3,0,4,V,okhttp,262,667
+push Reset Later,V N VM,Reset,NM,N,N,N,1,3,1,4,N,okhttp,262,668
+push Reset Later,V N VM,Later,N,NM,VM,VM,2,3,2,4,VM,okhttp,262,669
+q tail,NM N,q,NM,N,N,N,0,2,0,1,NM,junit4,263,670
+q tail,NM N,tail,N,N,N,N,1,2,2,1,N,junit4,263,671
+quad Bezier To,NM N P,quad,NM,FAILURE,VBD,N,0,3,0,4,NM,openFrameworks,264,672
+quad Bezier To,NM N P,Bezier,NM,FAILURE,N,N,1,3,1,4,N,openFrameworks,264,673
+quad Bezier To,NM N P,To,N,FAILURE,P,N,2,3,2,4,P,openFrameworks,264,674
+r hdr,NM N,r,NM,N,N,N,0,2,0,3,NM,openFrameworks,265,675
+r hdr,NM N,hdr,N,N,N,N,1,2,2,3,N,openFrameworks,265,676
+rate Pointer,NM N,rate,NM,N,N,N,0,2,0,5,NM,bullet3,266,677
+rate Pointer,NM N,Pointer,N,N,N,N,1,2,2,5,N,bullet3,266,678
+rconde,N,rconde,N,N,N,N,0,1,0,5,N,bullet3,267,679
+rcp len 2,NM N D,rcp,NM,N,N,N,0,3,0,3,NM,bullet3,268,680
+rcp len 2,NM N D,len,NM,N,N,N,1,3,1,3,N,bullet3,268,681
+rcp len 2,NM N D,2,N,N,D,D,2,3,2,3,D,bullet3,268,682
+read Element Text Span,V NM NM N,read,V,V,VBP,V,0,4,0,4,V,openFrameworks,269,683
+read Element Text Span,V NM NM N,Element,NM,N,N,N,1,4,1,4,NM,openFrameworks,269,684
+read Element Text Span,V NM NM N,Text,NM,N,VBP,N,2,4,1,4,NM,openFrameworks,269,685
+read Element Text Span,V NM NM N,Span,N,N,N,N,3,4,2,4,N,openFrameworks,269,686
+read Pass,V N,read,V,V,VBP,V,0,2,0,4,V,okhttp,270,687
+read Pass,V N,Pass,N,N,N,N,1,2,2,4,N,okhttp,270,688
+read subframe,V N,read,V,V,VBP,V,0,2,0,4,V,junit4,271,689
+read subframe,V N,subframe,N,N,N,N,1,2,2,4,N,junit4,271,690
+Read Text File,V NM N,Read,V,V,VBP,V,0,3,0,4,V,openFrameworks,272,691
+Read Text File,V NM N,Text,NM,N,V,N,1,3,1,4,NM,openFrameworks,272,692
+Read Text File,V NM N,File,N,N,N,N,2,3,2,4,N,openFrameworks,272,693
+real,N,real,N,N,NM,NM,0,1,0,3,N,bullet3,273,694
+REFRESH INTERVAL IN MILLIS,NM N P NPL,REFRESH,NM,V,N,N,0,4,0,1,NM,corenlp,274,695
+REFRESH INTERVAL IN MILLIS,NM N P NPL,INTERVAL,NM,N,N,N,1,4,1,1,N,corenlp,274,696
+REFRESH INTERVAL IN MILLIS,NM N P NPL,IN,NM,P,P,P,2,4,1,1,P,corenlp,274,697
+REFRESH INTERVAL IN MILLIS,NM N P NPL,MILLIS,N,N,N,N,3,4,2,1,NPL,corenlp,274,698
+register With Volatility Spread,V P NM N,register,V,V,VBP,V,0,4,0,4,V,junit4,275,699
+register With Volatility Spread,V P NM N,With,P,P,P,P,1,4,1,4,P,junit4,275,700
+register With Volatility Spread,V P NM N,Volatility,NM,N,N,N,2,4,1,4,NM,junit4,275,701
+register With Volatility Spread,V P NM N,Spread,N,N,N,N,3,4,2,4,N,junit4,275,702
+Replace Text Context,NM NM N,Replace,NM,N,V,V,0,3,0,1,NM,bullet3,276,703
+Replace Text Context,NM NM N,Text,NM,N,V,N,1,3,1,1,NM,bullet3,276,704
+Replace Text Context,NM NM N,Context,N,N,N,N,2,3,2,1,N,bullet3,276,705
+repress Ref At Loc,V N P N,repress,V,V,VBP,V,0,4,0,4,V,bullet3,277,706
+repress Ref At Loc,V N P N,Ref,N,N,N,N,1,4,1,4,N,bullet3,277,707
+repress Ref At Loc,V N P N,At,P,P,P,P,2,4,1,4,P,bullet3,277,708
+repress Ref At Loc,V N P N,Loc,N,N,N,N,3,4,2,4,N,bullet3,277,709
+res Width,NM N,res,NM,N,VBZ,N,0,2,0,5,NM,openFrameworks,278,710
+res Width,NM N,Width,N,N,N,N,1,2,2,5,N,openFrameworks,278,711
+reset seated zero pose,V NM NM N,reset,NM,N,V,V,0,4,0,1,V,bullet3,279,712
+reset seated zero pose,V NM NM N,seated,NM,NM,VBN,VBN,1,4,1,1,NM,bullet3,279,713
+reset seated zero pose,V NM NM N,zero,PR,NM,N,D,2,4,1,1,NM,bullet3,279,714
+reset seated zero pose,V NM NM N,pose,N,N,V,N,3,4,2,1,N,bullet3,279,715
+Rest Client,NM N,Rest,NM,N,V,N,0,2,0,2,NM,openFrameworks,280,716
+Rest Client,NM N,Client,N,N,N,N,1,2,2,2,N,openFrameworks,280,717
+retain Function,NM N,retain,NM,N,V,V,0,2,0,5,NM,corenlp,281,718
+retain Function,NM N,Function,N,N,N,N,1,2,2,5,N,corenlp,281,719
+Rolling Friction Demo,NM NM N,Rolling,NM,NM,N,N,0,3,0,2,NM,bullet3,282,720
+Rolling Friction Demo,NM NM N,Friction,NM,N,N,N,1,3,1,2,NM,bullet3,282,721
+Rolling Friction Demo,NM NM N,Demo,N,N,N,N,2,3,2,2,N,bullet3,282,722
+rotate desc,NM N,rotate,NM,N,V,V,0,2,0,1,NM,openFrameworks,283,723
+rotate desc,NM N,desc,N,N,N,N,1,2,2,1,N,openFrameworks,283,724
+rt Stream Ptr,NM NM N,rt,NM,N,P,N,0,3,0,3,NM,openFrameworks,284,725
+rt Stream Ptr,NM NM N,Stream,NM,N,N,N,1,3,1,3,NM,openFrameworks,284,726
+rt Stream Ptr,NM NM N,Ptr,N,N,N,N,2,3,2,3,N,openFrameworks,284,727
+rtm Session,NM N,rtm,NM,N,N,N,0,2,0,3,NM,okhttp,285,728
+rtm Session,NM N,Session,N,N,N,N,1,2,2,3,N,okhttp,285,729
+Rule Chain,NM N,Rule,NM,N,N,N,0,2,0,2,NM,junit4,286,730
+Rule Chain,NM N,Chain,N,N,N,N,1,2,2,2,N,junit4,286,731
+Rule Member Validator,NM NM N,Rule,NM,N,N,N,0,3,0,2,NM,junit4,287,732
+Rule Member Validator,NM NM N,Member,NM,N,N,N,1,3,1,2,NM,junit4,287,733
+Rule Member Validator,NM NM N,Validator,N,N,N,N,2,3,2,2,N,junit4,287,734
+rule Options,NM NPL,rule,NM,N,N,N,0,2,0,1,NM,junit4,288,735
+rule Options,NM NPL,Options,N,N,NPL,NPL,1,2,2,1,NPL,junit4,288,736
+rules Of New Chain,N P NM N,rules,NM,N,NPL,NPL,0,4,0,3,N,junit4,289,737
+rules Of New Chain,N P NM N,Of,NM,P,P,P,1,4,1,3,P,junit4,289,738
+rules Of New Chain,N P NM N,New,NM,NM,N,N,2,4,1,3,NM,junit4,289,739
+rules Of New Chain,N P NM N,Chain,N,N,N,N,3,4,2,3,N,junit4,289,740
+Run After Params,V NM NPL,Run,NM,V,N,V,0,3,0,2,V,junit4,290,741
+Run After Params,V NM NPL,After,NM,P,P,P,1,3,1,2,NM,junit4,290,742
+Run After Params,V NM NPL,Params,N,N,N,N,2,3,2,2,NPL,junit4,290,743
+Run Before Params,V NM NPL,Run,NM,V,N,V,0,3,0,2,V,junit4,291,744
+Run Before Params,V NM NPL,Before,NM,P,P,P,1,3,1,2,NM,junit4,291,745
+Run Before Params,V NM NPL,Params,N,N,N,N,2,3,2,2,NPL,junit4,291,746
+run Methods,V NPL,run,V,V,VBP,VBN,0,2,0,4,V,okhttp,292,747
+run Methods,V NPL,Methods,N,N,NPL,NPL,1,2,2,4,NPL,okhttp,292,748
+runner Factory,NM N,runner,NM,N,N,N,0,2,0,5,NM,junit4,293,749
+runner Factory,NM N,Factory,N,N,N,N,1,2,2,5,N,junit4,293,750
+runner For Class,V P N,runner,NM,FAILURE,N,N,0,3,0,4,V,junit4,294,751
+runner For Class,V P N,For,NM,FAILURE,P,P,1,3,1,4,P,junit4,294,752
+runner For Class,V P N,Class,N,FAILURE,N,N,2,3,2,4,N,junit4,294,753
+Runner Scheduler,NM N,Runner,NM,N,N,N,0,2,0,2,NM,junit4,295,754
+Runner Scheduler,NM N,Scheduler,N,N,N,N,1,2,2,2,N,junit4,295,755
+s Tracking System Name,PRE NM NM N,s,NM,N,NPL,N,0,4,0,3,PRE,bullet3,296,756
+s Tracking System Name,PRE NM NM N,Tracking,NM,N,VBG,N,1,4,1,3,NM,bullet3,296,757
+s Tracking System Name,PRE NM NM N,System,NM,N,N,N,2,4,1,3,NM,bullet3,296,758
+s Tracking System Name,PRE NM NM N,Name,N,N,N,N,3,4,2,3,N,bullet3,296,759
+sample Mid,NM N,sample,NM,N,N,N,0,2,0,3,NM,openFrameworks,297,760
+sample Mid,NM N,Mid,N,NM,N,N,1,2,2,3,N,openFrameworks,297,761
+save As Quadratic Png,V P NM N,save,V,V,VBP,V,0,4,0,4,V,junit4,298,762
+save As Quadratic Png,V P NM N,As,P,P,P,P,1,4,1,4,P,junit4,298,763
+save As Quadratic Png,V P NM N,Quadratic,NM,NM,N,NM,2,4,1,4,NM,junit4,298,764
+save As Quadratic Png,V P NM N,Png,N,N,N,N,3,4,2,4,N,junit4,298,765
+save lambdas,V NPL,save,V,V,VBP,V,0,2,0,4,V,corenlp,299,766
+save lambdas,V NPL,lambdas,N,N,N,NPL,1,2,2,4,NPL,corenlp,299,767
+scale and add to,V CJ V P,scale,V,V,VBP,N,0,4,0,4,V,bullet3,300,768
+scale and add to,V CJ V P,and,NM,N,CJ,CJ,1,4,1,4,CJ,bullet3,300,769
+scale and add to,V CJ V P,add,N,N,VBP,V,2,4,1,4,V,bullet3,300,770
+scale and add to,V CJ V P,to,P,P,P,P,3,4,2,4,P,bullet3,300,771
+score Pos Prev,NM N NM,score,NM,N,V,N,0,3,0,3,NM,corenlp,301,772
+score Pos Prev,NM N NM,Pos,NM,N,N,N,1,3,1,3,N,corenlp,301,773
+score Pos Prev,NM N NM,Prev,N,N,N,N,2,3,2,3,NM,corenlp,301,774
+Segmenter Core Annotations,NM NM NPL,Segmenter,NM,N,N,N,0,3,0,2,NM,corenlp,302,775
+Segmenter Core Annotations,NM NM NPL,Core,NM,N,N,N,1,3,1,2,NM,corenlp,302,776
+Segmenter Core Annotations,NM NM NPL,Annotations,N,N,NPL,NPL,2,3,2,2,NPL,corenlp,302,777
+selected Account,NM N,selected,NM,NM,VBN,VBN,0,2,0,1,NM,okhttp,303,778
+selected Account,NM N,Account,N,N,N,N,1,2,2,1,N,okhttp,303,779
+selection width label,NM NM N,selection,NM,N,N,N,0,3,0,1,NM,okhttp,304,780
+selection width label,NM NM N,width,NM,N,N,N,1,3,1,1,NM,okhttp,304,781
+selection width label,NM NM N,label,N,N,N,N,2,3,2,1,N,okhttp,304,782
+sentence List,NM N,sentence,NM,N,N,N,0,2,0,3,NM,corenlp,305,783
+sentence List,NM N,List,N,N,N,N,1,2,2,3,N,corenlp,305,784
+Serialized Form,NM N,Serialized,NM,N,VBN,NM,0,2,0,2,NM,junit4,306,785
+Serialized Form,NM N,Form,N,N,N,N,1,2,2,2,N,junit4,306,786
+session Config,NM N,session,NM,N,N,N,0,2,0,4,NM,openFrameworks,307,787
+session Config,NM N,Config,N,N,N,N,1,2,2,4,N,openFrameworks,307,788
+Set Add Faces Points,V V NM NPL,Set,V,V,VBP,V,0,4,0,4,V,corenlp,308,789
+Set Add Faces Points,V V NM NPL,Add,NM,N,V,N,1,4,1,4,V,corenlp,308,790
+Set Add Faces Points,V V NM NPL,Faces,NM,N,N,N,2,4,1,4,NM,corenlp,308,791
+Set Add Faces Points,V V NM NPL,Points,N,N,N,NPL,3,4,2,4,NPL,corenlp,308,792
+set dot,V N,set,V,V,VBD,N,0,2,0,4,V,corenlp,309,793
+set dot,V N,dot,N,N,N,N,1,2,2,4,N,corenlp,309,794
+set Extra Interfaces,V NM NPL,set,V,V,VBD,V,0,3,0,4,V,junit4,310,795
+set Extra Interfaces,V NM NPL,Extra,NM,NM,N,N,1,3,1,4,NM,junit4,310,796
+set Extra Interfaces,V NM NPL,Interfaces,N,N,NPL,NPL,2,3,2,4,NPL,junit4,310,797
+set Frame Pen,V NM N,set,V,V,VBD,V,0,3,0,4,V,corenlp,311,798
+set Frame Pen,V NM N,Frame,NM,N,N,N,1,3,1,4,NM,corenlp,311,799
+set Frame Pen,V NM N,Pen,N,N,N,N,2,3,2,4,N,corenlp,311,800
+set from aligned pixels,V P NM NPL,set,V,V,VBP,VBN,0,4,0,4,V,openFrameworks,312,801
+set from aligned pixels,V P NM NPL,from,P,P,P,P,1,4,1,4,P,openFrameworks,312,802
+set from aligned pixels,V P NM NPL,aligned,NM,NM,VBN,VBN,2,4,1,4,NM,openFrameworks,312,803
+set from aligned pixels,V P NM NPL,pixels,N,N,NPL,NPL,3,4,2,4,NPL,openFrameworks,312,804
+set Protocol Method,NM NM N,set,NM,NM,VBN,V,0,3,0,5,NM,okhttp,313,805
+set Protocol Method,NM NM N,Protocol,NM,N,N,N,1,3,1,5,NM,okhttp,313,806
+set Protocol Method,NM NM N,Method,N,N,N,N,2,3,2,5,N,okhttp,313,807
+set sphere resolution,V NM N,set,V,V,VBP,V,0,3,0,4,V,openFrameworks,314,808
+set sphere resolution,V NM N,sphere,NM,N,N,N,1,3,1,4,NM,openFrameworks,314,809
+set sphere resolution,V NM N,resolution,N,N,N,N,2,3,2,4,N,openFrameworks,314,810
+set Tiling,V N,set,V,V,VBD,VBN,0,2,0,4,V,junit4,315,811
+set Tiling,V N,Tiling,N,N,N,N,1,2,2,4,N,junit4,315,812
+set tracking space,V NM N,set,NM,NM,VBN,VBN,0,3,0,1,V,bullet3,316,813
+set tracking space,V NM N,tracking,NM,N,N,N,1,3,1,1,NM,bullet3,316,814
+set tracking space,V NM N,space,N,N,N,N,2,3,2,1,N,bullet3,316,815
+settings,NPL,settings,N,N,NPL,NPL,0,1,0,5,NPL,openFrameworks,317,816
+Shift Reduce Train Options,NM NM NM NPL,Shift,NM,N,N,N,0,4,0,2,NM,corenlp,318,817
+Shift Reduce Train Options,NM NM NM NPL,Reduce,NM,N,N,V,1,4,1,2,NM,corenlp,318,818
+Shift Reduce Train Options,NM NM NM NPL,Train,NM,N,N,N,2,4,1,2,NM,corenlp,318,819
+Shift Reduce Train Options,NM NM NM NPL,Options,N,N,NPL,NPL,3,4,2,2,NPL,corenlp,318,820
+silk bw expander 32,NM NM N D,silk,NM,N,N,N,0,4,0,4,NM,corenlp,319,821
+silk bw expander 32,NM NM N D,bw,NM,N,N,P,1,4,1,4,NM,corenlp,319,822
+silk bw expander 32,NM NM N D,expander,N,N,N,N,2,4,1,4,N,corenlp,319,823
+silk bw expander 32,NM NM N D,32,D,NM,D,D,3,4,2,4,D,corenlp,319,824
+size contents,NM NPL,size,NM,NM,N,N,0,2,0,5,NM,bullet3,320,825
+size contents,NM NPL,contents,N,N,NPL,NPL,1,2,2,5,NPL,bullet3,320,826
+size on first use,N P NM N,size,NM,V,N,N,0,4,0,5,N,bullet3,321,827
+size on first use,N P NM N,on,NM,P,P,P,1,4,1,5,P,bullet3,321,828
+size on first use,N P NM N,first,NM,NM,NM,NM,2,4,1,5,NM,bullet3,321,829
+size on first use,N P NM N,use,N,N,N,N,3,4,2,5,N,bullet3,321,830
+Slack Client,NM N,Slack,NM,NM,N,N,0,2,0,2,NM,okhttp,322,831
+Slack Client,NM N,Client,N,N,N,N,1,2,2,2,N,okhttp,322,832
+sort Field Data Type,NM NM NM N,sort,NM,N,V,NM,0,4,0,1,NM,junit4,323,833
+sort Field Data Type,NM NM NM N,Field,NM,N,N,N,1,4,1,1,NM,junit4,323,834
+sort Field Data Type,NM NM NM N,Data,NM,N,N,N,2,4,1,1,NM,junit4,323,835
+sort Field Data Type,NM NM NM N,Type,N,N,N,N,3,4,2,1,N,junit4,323,836
+source,N,source,N,N,N,N,0,1,0,5,N,junit4,324,837
+source index,NM N,source,NM,N,N,N,0,2,0,3,NM,openFrameworks,325,838
+source index,NM N,index,N,N,N,N,1,2,2,3,N,openFrameworks,325,839
+speaker,N,speaker,N,N,N,N,0,1,0,4,N,openFrameworks,326,840
+spline max len,NM NM N,spline,NM,N,N,N,0,3,0,1,NM,okhttp,327,841
+spline max len,NM NM N,max,NM,N,N,N,1,3,1,1,NM,okhttp,327,842
+spline max len,NM NM N,len,N,N,N,N,2,3,2,1,N,okhttp,327,843
+split Argument List,V NM N,split,V,V,VBD,V,0,3,0,4,V,okhttp,328,844
+split Argument List,V NM N,Argument,NM,N,N,N,1,3,1,4,NM,okhttp,328,845
+split Argument List,V NM N,List,N,N,N,N,2,3,2,4,N,okhttp,328,846
+sqrt per elem,V P N,sqrt,V,N,VBP,N,0,3,0,4,V,bullet3,329,847
+sqrt per elem,V P N,per,P,N,P,N,1,3,1,4,P,bullet3,329,848
+sqrt per elem,V P N,elem,N,N,N,N,2,3,2,4,N,bullet3,329,849
+stack,N,stack,N,N,V,N,0,1,0,1,N,junit4,330,850
+state,N,state,N,N,N,N,0,1,0,3,N,corenlp,331,851
+stream Headers,NM NPL,stream,NM,N,N,N,0,2,0,3,NM,okhttp,332,852
+stream Headers,NM NPL,Headers,N,N,NPL,NPL,1,2,2,3,NPL,okhttp,332,853
+Struct Ty,NM N,Struct,NM,N,N,N,0,2,0,1,NM,corenlp,333,854
+Struct Ty,NM N,Ty,N,N,N,N,1,2,2,1,N,corenlp,333,855
+SU Time,NM N,SU,NM,N,N,N,0,2,0,2,NM,corenlp,334,856
+SU Time,NM N,Time,N,N,N,N,1,2,2,2,N,corenlp,334,857
+sub flags to forward,NM NPL P N,sub,NM,V,N,N,0,4,0,3,NM,bullet3,335,858
+sub flags to forward,NM NPL P N,flags,NM,N,NPL,NPL,1,4,1,3,NPL,bullet3,335,859
+sub flags to forward,NM NPL P N,to,NM,P,P,P,2,4,1,3,P,bullet3,335,860
+sub flags to forward,NM NPL P N,forward,N,N,VM,VM,3,4,2,3,N,bullet3,335,861
+sub start,NM N,sub,N,NM,N,N,0,2,0,3,NM,openFrameworks,336,862
+sub start,NM N,start,N,N,N,N,1,2,2,3,N,openFrameworks,336,863
+Suite Method,NM N,Suite,NM,N,N,N,0,2,0,2,NM,junit4,337,864
+Suite Method,NM N,Method,N,N,N,N,1,2,2,2,N,junit4,337,865
+Suite Method Builder,NM NM N,Suite,NM,N,N,N,0,3,0,2,NM,junit4,338,866
+Suite Method Builder,NM NM N,Method,NM,N,N,N,1,3,1,2,NM,junit4,338,867
+Suite Method Builder,NM NM N,Builder,N,N,N,N,2,3,2,2,N,junit4,338,868
+supplier Class,NM N,supplier,NM,N,N,N,0,2,0,5,NM,junit4,339,869
+supplier Class,NM N,Class,N,N,N,N,1,2,2,5,N,junit4,339,870
+sx,N,sx,N,N,N,N,0,1,0,5,N,openFrameworks,340,871
+sz Joint Ranges,NM NM NPL,sz,NM,N,P,N,0,3,0,3,NM,bullet3,341,872
+sz Joint Ranges,NM NM NPL,Joint,NM,NM,N,N,1,3,1,3,NM,bullet3,341,873
+sz Joint Ranges,NM NM NPL,Ranges,N,N,NPL,NPL,2,3,2,3,NPL,bullet3,341,874
+TEGRA MORPH INIT,PRE N V,TEGRA,V,V,N,N,0,3,0,4,PRE,corenlp,342,875
+TEGRA MORPH INIT,PRE N V,MORPH,NM,N,N,N,1,3,1,4,N,corenlp,342,876
+TEGRA MORPH INIT,PRE N V,INIT,N,FAILURE,N,N,2,3,2,4,V,corenlp,342,877
+Temporary Folder,NM N,Temporary,NM,NM,NM,N,0,2,0,2,NM,junit4,343,878
+Temporary Folder,NM N,Folder,N,N,N,N,1,2,2,2,N,junit4,343,879
+tex ID,NM N,tex,NM,N,V,N,0,2,0,5,NM,openFrameworks,344,880
+tex ID,NM N,ID,N,N,N,N,1,2,2,5,N,openFrameworks,344,881
+the Class,DT N,the,DT,P,DT,DT,0,2,0,5,DT,junit4,345,882
+the Class,DT N,Class,N,N,N,N,1,2,2,5,N,junit4,345,883
+theory,N,theory,N,N,N,N,0,1,0,4,N,junit4,346,884
+thread Array Size,NM NM N,thread,NM,N,N,N,0,3,0,3,NM,junit4,347,885
+thread Array Size,NM NM N,Array,NM,N,N,N,1,3,1,3,NM,junit4,347,886
+thread Array Size,NM NM N,Size,N,N,N,N,2,3,2,3,N,junit4,347,887
+to sentence,P N,to,P,P,P,P,0,2,0,4,P,corenlp,348,888
+to sentence,P N,sentence,N,N,N,N,1,2,2,4,N,corenlp,348,889
+to XYZ,P N,to,NM,P,P,P,0,2,0,3,P,bullet3,349,890
+to XYZ,P N,XYZ,N,N,N,N,1,2,2,3,N,bullet3,349,891
+Top NGram Record,NM NM N,Top,NM,NM,N,NM,0,3,0,2,NM,corenlp,350,892
+Top NGram Record,NM NM N,NGram,NM,N,N,N,1,3,1,2,NM,corenlp,350,893
+Top NGram Record,NM NM N,Record,NM,N,N,N,2,3,2,2,N,corenlp,350,894
+tot channel,NM N,tot,NM,N,N,N,0,2,0,1,NM,corenlp,351,895
+tot channel,NM N,channel,N,N,N,N,1,2,2,1,N,corenlp,351,896
+total Merge Throttled Time,NM NM NM N,total,NM,NM,NM,NM,0,4,0,1,NM,bullet3,352,897
+total Merge Throttled Time,NM NM NM N,Merge,NM,N,N,N,1,4,1,1,NM,bullet3,352,898
+total Merge Throttled Time,NM NM NM N,Throttled,NM,N,N,N,2,4,1,1,NM,bullet3,352,899
+total Merge Throttled Time,NM NM NM N,Time,N,N,N,N,3,4,2,1,N,bullet3,352,900
+trade Price,NM N,trade,NM,N,V,N,0,2,0,1,NM,openFrameworks,353,901
+trade Price,NM N,Price,N,N,N,N,1,2,2,1,N,openFrameworks,353,902
+training Examples,NM NPL,training,V,N,N,N,0,2,0,4,NM,junit4,354,903
+training Examples,NM NPL,Examples,N,N,NPL,NPL,1,2,2,4,NPL,junit4,354,904
+Tsurgeon Parse Exception,NM NM N,Tsurgeon,NM,N,N,N,0,3,0,2,NM,corenlp,355,905
+Tsurgeon Parse Exception,NM NM N,Parse,NM,N,N,N,1,3,1,2,NM,corenlp,355,906
+Tsurgeon Parse Exception,NM NM N,Exception,N,N,N,N,2,3,2,2,N,corenlp,355,907
+tune Treebank,NM N,tune,NM,N,V,N,0,2,0,3,NM,corenlp,356,908
+tune Treebank,NM N,Treebank,N,N,N,N,1,2,2,3,N,corenlp,356,909
+UNKNOWN WORD,NM N,UNKNOWN,NM,NM,NM,NM,0,2,0,1,NM,corenlp,357,910
+UNKNOWN WORD,NM N,WORD,N,N,N,N,1,2,2,1,N,corenlp,357,911
+unpack texture Blend Func,V NM NM N,unpack,V,V,VBP,V,0,4,0,4,V,bullet3,358,912
+unpack texture Blend Func,V NM NM N,texture,NM,N,N,N,1,4,1,4,NM,bullet3,358,913
+unpack texture Blend Func,V NM NM N,Blend,NM,N,N,N,2,4,1,4,NM,bullet3,358,914
+unpack texture Blend Func,V NM NM N,Func,N,N,N,N,3,4,2,4,N,bullet3,358,915
+url From Json,N P N,url,V,FAILURE,VBP,N,0,3,0,4,N,junit4,359,916
+url From Json,N P N,From,P,FAILURE,P,P,1,3,1,4,P,junit4,359,917
+url From Json,N P N,Json,N,FAILURE,N,N,2,3,2,4,N,junit4,359,918
+usage,N,usage,N,N,N,N,0,1,0,5,N,openFrameworks,360,919
+use Shadows 1,V NPL D,use,NM,V,V,V,0,3,0,5,V,bullet3,361,920
+use Shadows 1,V NPL D,Shadows,NM,N,N,N,1,3,1,5,NPL,bullet3,361,921
+use Shadows 1,V NPL D,1,N,N,D,D,2,3,2,5,D,bullet3,361,922
+User 2 Internal Index,N P NM N,User,NM,N,N,N,0,4,0,2,N,bullet3,362,923
+User 2 Internal Index,N P NM N,2,NM,NM,D,D,1,4,1,2,P,bullet3,362,924
+User 2 Internal Index,N P NM N,Internal,NM,NM,N,N,2,4,1,2,NM,bullet3,362,925
+User 2 Internal Index,N P NM N,Index,N,N,N,N,3,4,2,2,N,bullet3,362,926
+validate Class Rules,V NM NPL,validate,V,V,VBP,V,0,3,0,4,V,okhttp,363,927
+validate Class Rules,V NM NPL,Class,NM,N,N,N,1,3,1,4,NM,okhttp,363,928
+validate Class Rules,V NM NPL,Rules,N,N,N,NPL,2,3,2,4,NPL,okhttp,363,929
+validate instance methods,V NM NPL,validate,V,V,VBP,NM,0,3,0,4,V,junit4,364,930
+validate instance methods,V NM NPL,instance,NM,N,N,N,1,3,1,4,NM,junit4,364,931
+validate instance methods,V NM NPL,methods,N,N,NPL,NPL,2,3,2,4,NPL,junit4,364,932
+value Count String,NM NM N,value,NM,N,N,N,0,3,0,3,NM,okhttp,365,933
+value Count String,NM NM N,Count,NM,N,N,N,1,3,1,3,NM,okhttp,365,934
+value Count String,NM NM N,String,N,N,N,N,2,3,2,3,N,okhttp,365,935
+value Hash,NM N,value,NM,N,N,N,0,2,0,1,NM,bullet3,366,936
+value Hash,NM N,Hash,N,N,N,N,1,2,2,1,N,bullet3,366,937
+Value Label,NM N,Value,NM,N,N,N,0,2,0,2,NM,corenlp,367,938
+Value Label,NM N,Label,N,N,N,N,1,2,2,2,N,corenlp,367,939
+vary Fields,NM NPL,vary,NM,N,V,VBP,0,2,0,3,NM,okhttp,368,940
+vary Fields,NM NPL,Fields,N,N,N,N,1,2,2,3,NPL,okhttp,368,941
+Vertex Position,NM N,Vertex,NM,N,N,N,0,2,0,2,NM,bullet3,369,942
+Vertex Position,NM N,Position,N,N,N,N,1,2,2,2,N,bullet3,369,943
+Voronoi Fracture Demo,NM NM N,Voronoi,NM,N,N,N,0,3,0,2,NM,bullet3,370,944
+Voronoi Fracture Demo,NM NM N,Fracture,NM,N,N,N,1,3,1,2,NM,bullet3,370,945
+Voronoi Fracture Demo,NM NM N,Demo,N,N,N,N,2,3,2,2,N,bullet3,370,946
+want x,V N,want,NM,N,V,V,0,2,0,5,V,openFrameworks,371,947
+want x,V N,x,N,N,N,N,1,2,2,5,N,openFrameworks,371,948
+Warning Failure Exception,NM NM N,Warning,NM,NM,N,VBG,0,3,0,2,NM,openFrameworks,372,949
+Warning Failure Exception,NM NM N,Failure,NM,N,N,N,1,3,1,2,NM,openFrameworks,372,950
+Warning Failure Exception,NM NM N,Exception,N,N,N,N,2,3,2,2,N,openFrameworks,372,951
+Form Body,NM N,Form,NM,N,N,N,0,2,0,2,NM,okhttp,373,952
+Form Body,NM N,Body,N,N,N,N,1,2,2,2,N,okhttp,373,953
+Web Socket Listener,NM NM N,Web,NM,N,N,N,0,3,0,2,NM,okhttp,374,954
+Web Socket Listener,NM NM N,Socket,NM,N,N,N,1,3,1,2,NM,okhttp,374,955
+Web Socket Listener,NM NM N,Listener,N,N,N,N,2,3,2,2,N,okhttp,374,956
+word Lemma Tag,NM NM N,word,NM,N,N,N,0,3,0,5,NM,corenlp,375,957
+word Lemma Tag,NM NM N,Lemma,NM,N,N,N,1,3,1,5,NM,corenlp,375,958
+word Lemma Tag,NM NM N,Tag,N,N,N,N,2,3,2,5,N,corenlp,375,959
+world To Screen,N P N,world,NM,FAILURE,N,N,0,3,0,4,N,corenlp,376,960
+world To Screen,N P N,To,NM,FAILURE,P,P,1,3,1,4,P,corenlp,376,961
+world To Screen,N P N,Screen,N,FAILURE,N,N,2,3,2,4,N,corenlp,376,962
+wrapper Class,NM N,wrapper,NM,N,N,N,0,2,0,3,NM,junit4,377,963
+wrapper Class,NM N,Class,N,N,N,N,1,2,2,3,N,junit4,377,964
+x 2,N D,x,NM,NM,N,N,0,2,0,3,N,bullet3,378,965
+x 2,N D,2,N,N,D,D,1,2,2,3,D,bullet3,378,966
+x Distance,NM N,x,NM,NM,N,P,0,2,0,3,NM,openFrameworks,379,967
+x Distance,NM N,Distance,N,N,N,N,1,2,2,3,N,openFrameworks,379,968
+X scale,NM N,X,NM,NM,N,N,0,2,0,1,NM,bullet3,380,969
+X scale,NM N,scale,N,N,N,N,1,2,2,1,N,bullet3,380,970
+z p i,NM NM N,z,NM,N,N,N,0,3,0,5,NM,openFrameworks,381,971
+z p i,NM NM N,p,NM,N,N,N,1,3,1,5,NM,openFrameworks,381,972
+z p i,NM NM N,i,N,N,N,N,2,3,2,5,N,openFrameworks,381,973
+z probs,NM NPL,z,NM,N,N,N,0,2,0,5,NM,corenlp,382,974
+z probs,NM NPL,probs,N,N,NPL,NPL,1,2,2,5,NPL,corenlp,382,975
+z weight,NM N,z,NM,N,N,DT,0,2,0,1,NM,bullet3,383,976
+z weight,NM N,weight,N,N,N,N,1,2,2,1,N,bullet3,383,977
