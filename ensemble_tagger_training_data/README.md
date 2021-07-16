@@ -70,6 +70,9 @@ The tagset that we use is a subset of Penn treebank. Each of our annotations and
 # Word of Caution
 Flair and Stanford recognize a larger number of verb conjugations (e.g., VBZ, VBD) than the ensemble, Posse, and SWUM. We left these conjugations in just in case someone wants to use them. If you are uninterested in using these conjugations, you should normalized them to just V-- inline with our [tagset](#tagset).
 
+# Identifier Naming Structure Catalogue
+We have put together a catalogue of [identifier naming structures](https://github.com/SCANL/identifier_name_structure_catalogue) in source code. This catalogue explains a lot more about why this work is important, how we are using the ensemble tagger and why the tagset looks the way it does.
+
 # Please cite the paper!
 
 1. C.  D.  Newman,  M.  J.  Decker,  R.  S.  AlSuhaibani,  A.  Peruma,  S.  Mohapatra,  T.  Vishoi, M. Zampieri, M. W. Mkaouer, T. J. Sheldon, and E. Hill, “An ensemble approach for annotating source code identifiers with part-of-speech tags,” Transactions  on  Software  Engineering, Accepted 2021.
